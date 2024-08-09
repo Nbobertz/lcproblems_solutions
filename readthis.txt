@@ -2,4 +2,4 @@ Hello this is a test file done in Vim via C. Ignore this file.
 
 This is test 3.0
 
-Sometimes I hate that we use GIT.
+Sometimes I hate that we use GIT, every single damn time I use it I have to reteach myself how.
