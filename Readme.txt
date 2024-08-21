@@ -3,3 +3,5 @@ This dir is designed to house leetcode problems I have done. I have many more on
 Vim sucks. I heard a good joke the other day. An interviewer asked a candidate their experience using their company preferred IDE, VIM...
 
 The candidate said "Oh I have about 3 years of experience using VIM....mainly because I can't figure out how to exit and just leave the 'IDE' up"
+
+I have to use VIM all the time at work. It sucks. In good news I think I got the hang of GIT
