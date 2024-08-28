@@ -3,7 +3,7 @@
 #To brute force this you could easily just do two pointer and just calculate every possible combiation of subarrays and take the highest.
 
 #below is test case
-nums = [-2,1,-3,4,-1,2,1,-5,4]
+#nums = [-2,1,-3,4,-1,2,1,-5,4]
 
 #below was my solution; it was ok but failed one edge case. O(n2)
 # def solution():
@@ -21,6 +21,19 @@ nums = [-2,1,-3,4,-1,2,1,-5,4]
 # print(solution())
 
 
+#below is the setup for the random array
+import random
+def setup():
+    nums = []
+    lennum = random.randint(0,100)
+    for p1 in range(0,lennum):
+        rannum = random.randint(0,10)
+        posneg = random.randint(0,1)
+        if posneg == 0:
+            rannum=rannum*-1
+        nums.append(rannum)
+    return nums
+
 def solution2():
     maximumsubb = nums[0]
     currentsum=0
@@ -31,5 +44,5 @@ def solution2():
         if currentsum>maximumsubb:
             maximumsubb=currentsum
     return maximumsubb
-
+nums = setup()
 print(solution2())
