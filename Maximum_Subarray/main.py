@@ -45,4 +45,6 @@ def solution2():
             maximumsubb=currentsum
     return maximumsubb
 nums = setup()
-print(solution2())
+nums_e = [-2,-5,-6,-7]
+print(nums)
+print('The maximum subarray sum is {a}'.format(a=solution2()))
