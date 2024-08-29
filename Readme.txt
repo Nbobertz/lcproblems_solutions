@@ -7,3 +7,5 @@ The candidate said "Oh I have about 3 years of experience using VIM....mainly be
 I have to use VIM all the time at work. It sucks. In good news I think I got the hang of GIT
 
 I am writing this from a train right now with the hotspot connected to my computer. Pretty cool stuff.
+
+08/29/24: Got stumped on a list-transversal question. Feel stupid that I had to look up Neetcode.
