@@ -60,11 +60,38 @@ def twosum():
                 return answer
                 exit
 
+def solution2():
+    answer = []
+    p1, p2 = 0, len(array1)-1
+    hmap = {}
+    while p1 <= p2:
+        # first we add to hashmap
+        hmap.update({p1:array1[p1]})
+        hmap.update({p2:array1[p2]})
+        print(hmap)
+
+        # next we calculate if any two integers in the hashmap equal the target, if so we print off the index of both into the answer array
+        for key in hmap:
+            for key2 in hmap:
+                if key == key2:
+                    break
+                else:
+                    if hmap[key] + hmap[key2] == target:
+                        answer.append(key2)
+                        answer.append(key)
+                        #reorder answer array. The problem for some reason needs to have it in increasing order.
+                        answer.sort()
+                        return answer
+
+        p1 += 1
+        p2 -= 1
+
+
 print('This is the brute force two pointer method with TC of O(n^2)\n')
 target,array1 = setup()
-answer = twosum()
+answer = solution2()
 if answer == None:
     print('There is no answer/Null')
 else:
-    print('\nThe index position to hit for the assigned values to add up to {a} is {b} and {c} ({d})'.format(a=target,b=answer[0],c=answer[1],d=answer))
+    #print('\nThe index position to hit for the assigned values to add up to {a} is {b} and {c} ({d})'.format(a=target,b=answer[0],c=answer[1],d=answer))
     print(answer)
