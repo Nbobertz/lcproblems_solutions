@@ -27,4 +27,21 @@ def solution():
             hmap[strs[p1]]+=tmp[p2]
     print(hmap)
 
-solution()
+
+#I coudnt figure out the proper code so I had to look up a solution online. I was on the right track but I just didnt understand enough of the basics. Below is the solution:
+def solution2():
+    result = {}
+    for item in strs:
+        itemResult = []
+        for letter in item:
+            itemResult.append(letter)
+        itemResult.sort()
+        itemResult = ''.join(itemResult)
+        if itemResult in result:
+            result[itemResult].append(item)
+        else:
+            result[itemResult] = [item]
+    my_list = [i for i in result.values()]
+    return my_list
+
+print(solution2())
