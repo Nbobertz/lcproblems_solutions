@@ -11,3 +11,5 @@ I am writing this from a train right now with the hotspot connected to my comput
 08/29/24: Got stumped on a list-transversal question. Feel stupid that I had to look up Neetcode.
 
 09/02/24: It's labor day!
+
+09/05/24: Started just throwing all problems in the dir 'restofLeetcode'
