@@ -12,4 +12,4 @@ I am writing this from a train right now with the hotspot connected to my comput
 
 09/02/24: It's labor day!
 
-09/05/24: Started just throwing all problems in the dir 'restofLeetcode'
+09/05/24: Started just throwing all problems in the dir 'restofLeetcode'. This is because it will prevent folders from cluttering my desktop. Go to 'restofLeetcode' directory and open up each individual .py for each problem.
