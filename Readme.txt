@@ -15,3 +15,5 @@ I am writing this from a train right now with the hotspot connected to my comput
 09/05/24: Started just throwing all problems in the dir 'restofLeetcode'. This is because it will prevent folders from cluttering my desktop. Go to 'restofLeetcode' directory and open up each individual .py for each problem.
 
 09/10/2024: Forgot leetcode yesterday and today I was traveling to Melbourne. I will attempt to get a leetcode problem done today/tomarrow.
+
+03/12/2024: Still in Florida. Will attempt Leetcode today
