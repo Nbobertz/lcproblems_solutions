@@ -4,6 +4,8 @@
 
 example = [1,2,3,4,5,6]
 target = 9
+print(example)
+print('the target is {a}'.format(a=target))
 
 #below is the two pointer method using the standard brute force.
 
@@ -14,9 +16,45 @@ def solution():
             if example[p1]+example[p2]==target:
                 answer.append(example[p1])
                 answer.append(example[p2])
-                return answer
+                return 'the answer here is {a},{b}'.format(a=answer[0],b=answer[1])
 
 
 #below we will build the hashmap solution
 
-print(solution())
+def solution2():
+    #create the answer solution
+    answer=[]
+    hmap={}
+    l,r = 0,len(example)-1
+
+    #below we are going to be using the two pointer algorithm. The idea is that as we loop through the array we will take the value of each integer at point l or r and then add the index point and value to the hmap dictionary(hashmap)
+    while l<=r:
+        hmap.update({example[l]:l})
+        hmap.update({example[r]:r})
+        print(example[l])
+        print(example[r])
+
+        #below we are creating the target integers based off the remainder of the l or r pointer being subtracted from the main target
+        t1 = target-example[l]
+        t2 = target-example[r]
+
+        #now we create the logic to see if the t1 or t2 are in the hmap. If they are we will then append to the answer.
+
+        #here is for left pointer check
+        if t1 in hmap:
+            answer.append(l)
+            answer.append(hmap[t1])
+            return answer
+        #here is for the right pointer
+        elif t2 in hmap:
+            answer.append(r)
+            answer.append(hmap[t2])
+            return answer
+        #iterate the left and right pointer for the two pointer algo
+        l+=1
+        r-=1
+
+
+#below are the print statements
+#print(solution())
+print(solution2())
