@@ -12,11 +12,30 @@ def solution():
     for p1 in range(0,len(example)):
         for p2 in range(p1+1,len(example)):
             if example[p1]+example[p2]==target:
-                answer.append(example[p1])
-                answer.append(example[p2])
+                answer.append(p1)
+                answer.append(p2)
                 return answer
 
 
 #below we will build the hashmap solution
 
+def solution2():
+    #create the answer solution
+    answer=[]
+    hmap={}
+    l,r = 0,len(example)-1
+    while l<=r:
+        hmap.update({l:example[l]})
+        hmap.update({r:example[r]})
+        l+=1
+        r-=1
+        t2 = target - example[l]
+
+        #grabbing he key instead of the value
+        if t2 in hmap:
+            answer.append(l)
+            answer.append(t2)
+            return answer
+
 print(solution())
+print(solution2())
