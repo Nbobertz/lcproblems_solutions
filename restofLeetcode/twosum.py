@@ -2,8 +2,8 @@
 
 #constraints: There will always be two numbers in the array. Further, the numbers will always be positive.
 
-example = [1,2,3,4,5,6]
-target = 9
+example = [3,2,4,2]
+target = 6
 print(example)
 print('the target is {a}'.format(a=target))
 
@@ -25,14 +25,19 @@ def solution2():
     #create the answer solution
     answer=[]
     hmap={}
-    l,r = 0,len(example)-1
+    l,r = 0,len(example)
+    print(l)
+    print(r)
+    if len(example)%2!=0:
+        a = int((len(example)/2))
+        hmap.update({example[a]:a})
 
     #below we are going to be using the two pointer algorithm. The idea is that as we loop through the array we will take the value of each integer at point l or r and then add the index point and value to the hmap dictionary(hashmap)
     while l<=r:
         hmap.update({example[l]:l})
-        hmap.update({example[r]:r})
+        hmap.update({example[r-1]:r})
         print(example[l])
-        print(example[r])
+        print(example[r-1])
 
         #below we are creating the target integers based off the remainder of the l or r pointer being subtracted from the main target
         t1 = target-example[l]
@@ -50,6 +55,7 @@ def solution2():
             answer.append(r)
             answer.append(hmap[t2])
             return answer
+        print(hmap)
         #iterate the left and right pointer for the two pointer algo
         l+=1
         r-=1
