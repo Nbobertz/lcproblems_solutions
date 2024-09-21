@@ -17,3 +17,5 @@ I am writing this from a train right now with the hotspot connected to my comput
 09/10/2024: Forgot leetcode yesterday and today I was traveling to Melbourne. I will attempt to get a leetcode problem done today/tomarrow.
 
 03/12/2024: Still in Florida. Will attempt Leetcode today
+
+09/21/2024: Got back from Florida last week and was super sick. Finally got over it so back to LC.
