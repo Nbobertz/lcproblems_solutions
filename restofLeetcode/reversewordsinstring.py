@@ -4,7 +4,7 @@ import collections
 #below is example
 s = "  hello world  "
 
-#below is solution had to use the cracking code interview as there was one edge case I could not catch in On
+#below is solution had to use the cracking code interview as there was one edge case I could not catch in Ond
 def solution():
     string_builder = collections.deque()
 
