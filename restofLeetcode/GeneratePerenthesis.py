@@ -26,5 +26,7 @@ def solution():
 
     backtrack(0,0)
     return res
+#the reason why the above solution works vs the check if parenthesis is good is because the logic is built into the openN and closedN funciton calls. Essentially the above code for the example 3 is to say if 0=0=n the return the answer because both the openn and closed n are equal to the number of parenthesis.
 
+#we start by adding a ( and then increasing hte counter of openN by one. Then if closed is ever lower we instantly add a closed one.
 print(solution())
