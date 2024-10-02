@@ -19,3 +19,5 @@ I am writing this from a train right now with the hotspot connected to my comput
 03/12/2024: Still in Florida. Will attempt Leetcode today
 
 09/21/2024: Got back from Florida last week and was super sick. Finally got over it so back to LC.
+
+10/1/24: started doing two LC a day
