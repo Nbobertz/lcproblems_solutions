@@ -1,4 +1,4 @@
-![image1](https://github.com/Nbobertz/lcproblems_solutions/blob/main/firstaward.png)
+![image1](https://raw.githubusercontent.com/Nbobertz/lcproblems_solutions/refs/heads/main/firstaward.png)
 
 
 
