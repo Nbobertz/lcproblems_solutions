@@ -1,15 +1,8 @@
-<<<<<<< HEAD:Readme.md
 Welcome to Leetcode!!!
 
 
 
 <img width="964" alt="First Award" src="https://github.com/Nbobertz/lcproblems_solutions/blob/main/firstaward.png">
-
-
-
-=======
-<img width="964" alt="First Award" src="https://github.com/Nbobertz/lcproblems_solutions/blob/main/firstaward.png">
->>>>>>> 7cc57d2c760be49c609dd5ecd518362fd4ad7678:Readme.txt
 
 
 This dir is designed to house leetcode problems I have done. I have many more on LC itself but this is the sample amount I have done so far in the IDE
