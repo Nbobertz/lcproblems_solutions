@@ -1,4 +1,7 @@
-![alt text](https://github.com/Nbobertz/lcproblems_solutions/blob/main/firstaward.png?raw=true)
+<p align="center">
+  <img src="firstaward.png" width="350" title="Award">
+  <img src="firstaward.png" width="350" alt="accessibility text">
+</p>
 
 
 
