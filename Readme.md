@@ -28,3 +28,5 @@ I am writing this from a train right now with the hotspot connected to my comput
 09/21/2024: Got back from Florida last week and was super sick. Finally got over it so back to LC.
 
 10/1/24: started doing two LC a day
+
+10/4/24: Finally got the .png image to work. Github changed the logic for how to build out the Readme. Need to use .md and raw txt
