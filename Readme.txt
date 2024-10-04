@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="firstaward.png" width="350" title="Award">
-  <img src="firstaward.png" width="350" alt="accessibility text">
-</p>
+![ezcv logo]https://raw.githubusercontent.com/Nbobertz/lcproblems_solutions/main/firstaward.png>
+
 
 
 
