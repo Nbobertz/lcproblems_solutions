@@ -1,5 +1,5 @@
+<<<<<<< HEAD:Readme.md
 <img width="964" alt="First Award" src="https://github.com/Nbobertz/lcproblems_solutions/blob/main/firstaward.png">
-
 
 
 
