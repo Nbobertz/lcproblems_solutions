@@ -1,4 +1,4 @@
-![Alt text](firstaward.png)
+![alt text](https://github.com/Nbobertz/lcproblems_solutions/blob/main/image.jpg?raw=true)
 
 
 
