@@ -1,4 +1,4 @@
-![alt text](https://github.com/Nbobertz/lcproblems_solutions/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/Nbobertz/lcproblems_solutions/blob/main/firstaward.png?raw=true)
 
 
 
