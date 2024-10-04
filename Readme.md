@@ -1,4 +1,5 @@
-![ezcv logo]https://raw.githubusercontent.com/Nbobertz/lcproblems_solutions/main/firstaward.png>
+<img width="964" alt="First Award" src="https://github.com/Nbobertz/lcproblems_solutions/blob/main/firstaward.png">
+
 
 
 
