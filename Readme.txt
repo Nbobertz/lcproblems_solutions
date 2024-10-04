@@ -1,4 +1,4 @@
-[<img src="firstaward.png">]
+![image1](https://github.com/Nbobertz/lcproblems_solutions/blob/main/firstaward.png)
 
 
 
