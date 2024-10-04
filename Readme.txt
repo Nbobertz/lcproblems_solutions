@@ -1,4 +1,4 @@
-![ezcv logo]https://raw.githubusercontent.com/Nbobertz/lcproblems_solutions/main/firstaward.png?raw=true>
+[<img src="firstaward.png">]
 
 
 
