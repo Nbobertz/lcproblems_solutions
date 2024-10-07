@@ -53,4 +53,29 @@ def solution():
     else:
         return temp
 
-print(solution())
+
+#couldnt get the one edge case down. Turns out you dont need a stack just to iterate over the array twice
+def solution2():
+    res = []
+    cnt = 0
+    for c in s:
+        if c =='(':
+            res.append(c)
+            cnt+=1
+        elif c ==')' and cnt>0:
+            res.append(c)
+            cnt-=1
+        elif c!= ')':
+            res.append(c)
+
+    #second pass
+    filt = []
+    for c in res[::-1]:
+        if c =='(' and cnt > 0:
+            cnt -=1
+        else:
+            filt.append(c)
+    return "".join(filt[::-1])
+
+
+print(solution2())
