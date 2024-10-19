@@ -31,4 +31,6 @@ I am writing this from a train right now with the hotspot connected to my comput
 
 10/4/24: Finally got the .png image to work. Github changed the logic for how to build out the Readme. Need to use .md and raw txt
 
-10/5/24: Not sure what MD is as a filename but it appears pretty robust. 
+10/5/24: Not sure what MD is as a filename but it appears pretty robust.
+
+10/19/24: Moved down to Florida and set up Gitlab. Now getting Github push/pull set back up
