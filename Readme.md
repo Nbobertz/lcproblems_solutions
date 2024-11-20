@@ -34,3 +34,5 @@ I am writing this from a train right now with the hotspot connected to my comput
 10/5/24: Not sure what MD is as a filename but it appears pretty robust.
 
 10/19/24: Moved down to Florida and set up Gitlab. Now getting Github push/pull set back up
+
+11/19/24: Going on vacation for 3 days. Will attempt to push
