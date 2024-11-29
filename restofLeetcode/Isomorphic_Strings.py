@@ -28,4 +28,17 @@ def solution():
         stack2.append(t[p1])
     return True
 
-print(solution())
+
+def solution2():
+    mapst,mapts = {}, {}
+
+    for i in range(len(s)):
+        c1,c2 = s[i], t[i]
+
+        if ((c1 in mapst and mapst[c1] != c2) or (c2 in mapts and mapts[c2]!=c1)):
+            return False
+        mapst[c1]=c2
+        mapts[c2]=c1
+    return True
+
+print(solution2())
