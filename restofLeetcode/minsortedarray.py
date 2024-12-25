@@ -11,7 +11,7 @@ def solution():
     if len(nums)==1:
         return nums[0]
 
-    #if last element is greater thenn first element then there is no rotation
+    #if last element is greater then first element then there is no rotation
     if nums[r] > nums[0]:
         return nums[0]
 
