@@ -1,7 +1,7 @@
 #here we are going to be given a string and it is our goal to see if it is a palindrome; that it can be read backwareds and forwards and be the same
 import string
 
-s = s = "Was it a car or a cat I saw?"
+s = "Was it a car or a cat I saw?"
 
 def solution():
     t = s.translate(None,string.punctuation)

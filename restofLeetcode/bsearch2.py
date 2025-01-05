@@ -1,7 +1,7 @@
 #standard binary search algo. THe idea here is to show how binary works
 
-nums = [-1,0,2,4,6,8]
-target = 10
+nums = [0,20,30,40,50,60]
+target = 50
 
 def solution():
     l, r = 0, len(nums) - 1
