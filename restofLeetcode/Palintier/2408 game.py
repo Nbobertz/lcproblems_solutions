@@ -4,6 +4,7 @@
 nums = [8,0,4,4]
 nums2 = [8,8,8,8]
 nums3 = [2,0,0,2]
+nums4 = [2,4,4,8]
 
 def solution(x):
     arr = x
@@ -38,4 +39,4 @@ def solution(x):
     answer = [x for x in stack[::-1]]
     answer = answer + zeros
     print(answer)
-solution(nums3)
+solution(nums4)
