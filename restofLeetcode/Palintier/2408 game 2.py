@@ -38,6 +38,9 @@ def solution():
                     stack.append(num)
                 else:
                     stack.append(x)
+
+
+    #call while loop to move and pop from stack. Break if stack hit's 1
     while stack:
         l = 0
         if len(stack)==1:
