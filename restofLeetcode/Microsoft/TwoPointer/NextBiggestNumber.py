@@ -3,7 +3,7 @@
 
 #this was asked in my microsoft interview. I came up with the brute force approach.
 
-nums = [1,5,2,6,7,8,1,9]
+nums = [1,5,2,6,7,8,1,1]
 
 
 def solution():
