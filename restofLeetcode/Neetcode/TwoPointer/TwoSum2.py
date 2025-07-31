@@ -16,4 +16,19 @@ def hash_solution():
         hm[n] = i
 
 def solution():
-    
+    # this is done with a two pointer pass. Since the array is already ascending then all we have to do is walk backwards with a r pointer and forwards with a l pointer
+
+    l, r = 0, len(numbers) - 1
+
+    while l < r:
+        ln = numbers[l]
+        rn = numbers[r]
+        # logic to check
+        if ln + rn > target:
+            # to the right of the target
+            r -= 1
+        elif ln + rn < target:
+            # to the left of the target
+            l += 1
+        elif ln + rn == target:
+            return [l + 1, r + 1]
