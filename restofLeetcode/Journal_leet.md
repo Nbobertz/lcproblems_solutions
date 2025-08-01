@@ -19,4 +19,9 @@ Today was a good day, did three problems and got through all 3. Two of them I ha
 
 The one pass soluion is a bit cracked. You have to do range(n-1,-1,-1) which says take the range of n, go backwards to -1, and the step is -1. To do this on the spot in an interview is a bit mean but some interverviewers be like that.
 
-Anyways, it was a good day for DSA because it's all starting to come back now. 
+Anyways, it was a good day for DSA because it's all starting to come back now.
+
+## Day4: 07/31/25: Two Pointer, 3Sum
+Did 3 sum today and it broke me; spent about an hour on it learning diffrent ways to iterate through. Understand a majority of it but failed to see the implication. I will have to do it again before moving on.
+
+Overall good day though; work thinks I do hobby work at the office which sucks. I built an AI-Program but they think I am just messing around. Kinda sucks but whatever.
