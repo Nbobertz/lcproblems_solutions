@@ -25,3 +25,8 @@ Anyways, it was a good day for DSA because it's all starting to come back now.
 Did 3 sum today and it broke me; spent about an hour on it learning diffrent ways to iterate through. Understand a majority of it but failed to see the implication. I will have to do it again before moving on.
 
 Overall good day though; work thinks I do hobby work at the office which sucks. I built an AI-Program but they think I am just messing around. Kinda sucks but whatever.
+
+## Day5: 08/1/25: Two Pointer, 3 Sum Smaller
+Did 3 sum smaller today along with several other LC problems. The problem is that I am having a hard time grasping the inheret problem and assuming to much. I need to slow down; it's insane that you have to do these problems hundreds of times to get a job but its whatever.
+
+I did the smaller version of it and I am tired of failing to grasp and move the pointers properly. I will continue to try
