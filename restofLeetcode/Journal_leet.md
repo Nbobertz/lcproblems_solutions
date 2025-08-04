@@ -35,3 +35,6 @@ I did the smaller version of it and I am tired of failing to grasp and move the 
 I have come to the conclusion that I am going to follow the neetcode roadmap but do all the leetcode questions for that topic before doing the neetcode ones. I just need to spend more time on these algorithms.
 
 I did a couple of array based problems today. Going to see if I can get my haircut and then come back to the grind.
+
+## Day7: 08/03/25: Array Based Questions
+Did an easy today that I just could not get. I continue to overthink and impliment extremly hard solutions to what should be simple problems. I will continue to work hard and hopefully be able to solve mediums in under 20 minutes first try. I think at this rate I might be about 20 days off.
