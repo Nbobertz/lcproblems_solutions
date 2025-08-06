@@ -38,3 +38,7 @@ I did a couple of array based problems today. Going to see if I can get my hairc
 
 ## Day7: 08/03/25: Array Based Questions
 Did an easy today that I just could not get. I continue to overthink and impliment extremly hard solutions to what should be simple problems. I will continue to work hard and hopefully be able to solve mediums in under 20 minutes first try. I think at this rate I might be about 20 days off.
+
+## Day8: 08/05/25: Two Pointer Problems
+Did most water today (medium) it was about finding the largest container to hold water. I ahve done the hard version of this problem before.
+Got the brute force approach but could not get the optimal without help. 
