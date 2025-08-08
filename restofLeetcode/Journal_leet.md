@@ -42,3 +42,6 @@ Did an easy today that I just could not get. I continue to overthink and implime
 ## Day8: 08/05/25: Two Pointer Problems
 Did most water today (medium) it was about finding the largest container to hold water. I ahve done the hard version of this problem before.
 Got the brute force approach but could not get the optimal without help. 
+
+## Day 9: 08/07/25: Did A Graph Problem Today
+Did the number of islands problem today. It's a classic graph problem that I think is one of the best leetcode problems out there. Got it after several attempts; did the iterative solution.
