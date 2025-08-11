@@ -45,3 +45,8 @@ Got the brute force approach but could not get the optimal without help.
 
 ## Day 9: 08/07/25: Did A Graph Problem Today
 Did the number of islands problem today. It's a classic graph problem that I think is one of the best leetcode problems out there. Got it after several attempts; did the iterative solution.
+
+## Day 10: 08/10/24: Did Wiggle Sort
+Tooday I did wiggle sort, it's a pretty cool problem on how to fix an array in real time. I would recomend doing this one as it shows how you can edit an array in place without storing and returning anything. A solid way to change things.
+
+Did this in a group of people so it was more difficult.
