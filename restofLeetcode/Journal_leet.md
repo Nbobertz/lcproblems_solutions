@@ -49,4 +49,6 @@ Did the number of islands problem today. It's a classic graph problem that I thi
 ## Day 10: 08/10/24: Did Wiggle Sort
 Tooday I did wiggle sort, it's a pretty cool problem on how to fix an array in real time. I would recomend doing this one as it shows how you can edit an array in place without storing and returning anything. A solid way to change things.
 
+Also did the max consecutive one's problem. Got the algorithm down but failed to get the impimentation down. I need to brush up on my sliding window algorithm to make sure I can get it first try.
+
 Did this in a group of people so it was more difficult.
