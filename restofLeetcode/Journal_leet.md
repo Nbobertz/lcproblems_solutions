@@ -52,3 +52,7 @@ Tooday I did wiggle sort, it's a pretty cool problem on how to fix an array in r
 Also did the max consecutive one's problem. Got the algorithm down but failed to get the impimentation down. I need to brush up on my sliding window algorithm to make sure I can get it first try.
 
 Did this in a group of people so it was more difficult.
+
+## Day 11: 09/16/25: Did Bucket sort
+Dropped off for a month. Grandpa died and I got sent to DC for work but now I am back on the grind. Did bucket sort today so that was pretty cool.
+Still working on getting better.
