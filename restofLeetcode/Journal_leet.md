@@ -56,3 +56,6 @@ Did this in a group of people so it was more difficult.
 ## Day 11: 09/16/25: Did Bucket sort
 Dropped off for a month. Grandpa died and I got sent to DC for work but now I am back on the grind. Did bucket sort today so that was pretty cool.
 Still working on getting better.
+
+## Day 12: 09/17/25: Did A stack Problem
+Did a common stack problem and managed to get the brute force solution first try. It was a medium, so I guess that is new. Still I have alot to go.
