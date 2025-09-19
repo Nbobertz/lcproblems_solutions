@@ -60,3 +60,8 @@ Still working on getting better.
 ## Day 12: 09/17/25: Did A stack Problem
 Did a common stack problem and managed to get the brute force solution first try. It was a medium, so I guess that is new. Still I have alot to go.
 Also I did the easy valid parenthesis problem. The logic is what gets me on it but I understand how a stack works.
+
+## Day 13: 09/18/25: Did two stack problems
+Did two stack problems today. One of them I brute forced my way through and got an O(n*m) solution. It was find next greater integer. The proper way to do it was with a monotonic(linear) stack. I need to get better at grasping these stack problems. For some reason I am good with graphs, but stacks...noooo... lol.
+
+Anyways, standard day. Tomarrow I will try to get a problem in but I need to go to a concert.
