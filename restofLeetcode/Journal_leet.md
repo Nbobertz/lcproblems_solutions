@@ -45,3 +45,34 @@ Got the brute force approach but could not get the optimal without help.
 
 ## Day 9: 08/07/25: Did A Graph Problem Today
 Did the number of islands problem today. It's a classic graph problem that I think is one of the best leetcode problems out there. Got it after several attempts; did the iterative solution.
+
+## Day 10: 08/10/24: Did Wiggle Sort
+Tooday I did wiggle sort, it's a pretty cool problem on how to fix an array in real time. I would recomend doing this one as it shows how you can edit an array in place without storing and returning anything. A solid way to change things.
+
+Also did the max consecutive one's problem. Got the algorithm down but failed to get the impimentation down. I need to brush up on my sliding window algorithm to make sure I can get it first try.
+
+Did this in a group of people so it was more difficult.
+
+## Day 11: 09/16/25: Did Bucket sort
+Dropped off for a month. Grandpa died and I got sent to DC for work but now I am back on the grind. Did bucket sort today so that was pretty cool.
+Still working on getting better.
+
+## Day 12: 09/17/25: Did A stack Problem
+Did a common stack problem and managed to get the brute force solution first try. It was a medium, so I guess that is new. Still I have alot to go.
+Also I did the easy valid parenthesis problem. The logic is what gets me on it but I understand how a stack works.
+
+## Day 13: 09/18/25: Did two stack problems
+Did two stack problems today. One of them I brute forced my way through and got an O(n*m) solution. It was find next greater integer. The proper way to do it was with a monotonic(linear) stack. I need to get better at grasping these stack problems. For some reason I am good with graphs, but stacks...noooo... lol.
+
+Anyways, standard day. Tomarrow I will try to get a problem in but I need to go to a concert.
+
+## Day 14: 09/20/25: Did Bucket Sort Today at Kava bar
+Yesterday I had to go to a concert so I did not get a chance to do a new problem. Today I did bucket sort again to make sure I got it down.
+
+Will probobly do another one before bed.
+
+## Day 15: 09/21/25: Did Bucket Sort Again and Car Fleet
+Did bucket sort with colors today as well as with car fleet problem. The car fleet one I missed because I was trying to calculate each car as if it was on a track and not just do the time to complete and have some logic.
+It's one of those problems where if you have done it before you will pass easily.
+
+The bucket sort colors one was pretty intresting. I did it at work by using a LLM model to give me a random problem.
