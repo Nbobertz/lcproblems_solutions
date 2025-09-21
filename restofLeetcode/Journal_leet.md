@@ -70,3 +70,9 @@ Anyways, standard day. Tomarrow I will try to get a problem in but I need to go 
 Yesterday I had to go to a concert so I did not get a chance to do a new problem. Today I did bucket sort again to make sure I got it down.
 
 Will probobly do another one before bed.
+
+## Day 15: 09/21/25: Did Bucket Sort Again and Car Fleet
+Did bucket sort with colors today as well as with car fleet problem. The car fleet one I missed because I was trying to calculate each car as if it was on a track and not just do the time to complete and have some logic.
+It's one of those problems where if you have done it before you will pass easily.
+
+The bucket sort colors one was pretty intresting. I did it at work by using a LLM model to give me a random problem.
