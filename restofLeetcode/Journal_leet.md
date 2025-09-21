@@ -65,3 +65,8 @@ Also I did the easy valid parenthesis problem. The logic is what gets me on it b
 Did two stack problems today. One of them I brute forced my way through and got an O(n*m) solution. It was find next greater integer. The proper way to do it was with a monotonic(linear) stack. I need to get better at grasping these stack problems. For some reason I am good with graphs, but stacks...noooo... lol.
 
 Anyways, standard day. Tomarrow I will try to get a problem in but I need to go to a concert.
+
+## Day 14: 09/20/25: Did Bucket Sort Today at Kava bar
+Yesterday I had to go to a concert so I did not get a chance to do a new problem. Today I did bucket sort again to make sure I got it down.
+
+Will probobly do another one before bed.
