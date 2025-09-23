@@ -76,3 +76,7 @@ Did bucket sort with colors today as well as with car fleet problem. The car fle
 It's one of those problems where if you have done it before you will pass easily.
 
 The bucket sort colors one was pretty intresting. I did it at work by using a LLM model to give me a random problem.
+
+## Day 16: 09/22/25: Did an easy that I did not get today
+I did dominoes 1128 today. I did not get the problem first try because I could not understand it. Some of these problems are written in a way that makes them almost impossible to understand.
+I will keep doing more.
