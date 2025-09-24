@@ -80,3 +80,6 @@ The bucket sort colors one was pretty intresting. I did it at work by using a LL
 ## Day 16: 09/22/25: Did an easy that I did not get today
 I did dominoes 1128 today. I did not get the problem first try because I could not understand it. Some of these problems are written in a way that makes them almost impossible to understand.
 I will keep doing more.
+
+## Day 17: 09/23/25: Did a palindrom problem; the one I solved plenty of times
+Did valid palindrom today. Pretty easy problem as it just takes two strings and compares or just iterates through the one with two pointers in o n 
