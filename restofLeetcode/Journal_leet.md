@@ -86,3 +86,8 @@ Did valid palindrom today. Pretty easy problem as it just takes two strings and 
 
 ## Day 18: 09/25/25: Did another Stack Problem
 I did a stack  problem today, it was a medium and I managed to get a brute force solution which I guess is imporovment. I need to practice stacks
+
+## Day 19: 09/26/25: Did a Couple of Easy/Medium Problems
+I did two stack problems while at work. Got the group anagrams problem down.
+
+Ended up doing another easy problem later on that involved encoding and decoding strings
