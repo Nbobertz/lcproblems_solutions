@@ -83,3 +83,6 @@ I will keep doing more.
 
 ## Day 17: 09/23/25: Did a palindrom problem; the one I solved plenty of times
 Did valid palindrom today. Pretty easy problem as it just takes two strings and compares or just iterates through the one with two pointers in o n 
+
+## Day 18: 09/25/25: Did another Stack Problem
+I did a stack  problem today, it was a medium and I managed to get a brute force solution which I guess is imporovment. I need to practice stacks
