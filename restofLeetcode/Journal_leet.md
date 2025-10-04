@@ -91,3 +91,7 @@ I did a stack  problem today, it was a medium and I managed to get a brute force
 I did two stack problems while at work. Got the group anagrams problem down.
 
 Ended up doing another easy problem later on that involved encoding and decoding strings
+
+## Day 20: 10/4/25: Got Sick, Back at it. Did Popular Problem
+I was sick for a week but got back on the LC grind. Did most water medium today; its a simple two pointer problem so it was fine.
+Going to keep on trucking.
