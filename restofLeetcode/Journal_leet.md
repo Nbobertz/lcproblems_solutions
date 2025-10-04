@@ -76,3 +76,22 @@ Did bucket sort with colors today as well as with car fleet problem. The car fle
 It's one of those problems where if you have done it before you will pass easily.
 
 The bucket sort colors one was pretty intresting. I did it at work by using a LLM model to give me a random problem.
+
+## Day 16: 09/22/25: Did an easy that I did not get today
+I did dominoes 1128 today. I did not get the problem first try because I could not understand it. Some of these problems are written in a way that makes them almost impossible to understand.
+I will keep doing more.
+
+## Day 17: 09/23/25: Did a palindrom problem; the one I solved plenty of times
+Did valid palindrom today. Pretty easy problem as it just takes two strings and compares or just iterates through the one with two pointers in o n 
+
+## Day 18: 09/25/25: Did another Stack Problem
+I did a stack  problem today, it was a medium and I managed to get a brute force solution which I guess is imporovment. I need to practice stacks
+
+## Day 19: 09/26/25: Did a Couple of Easy/Medium Problems
+I did two stack problems while at work. Got the group anagrams problem down.
+
+Ended up doing another easy problem later on that involved encoding and decoding strings
+
+## Day 20: 10/4/25: Got Sick, Back at it. Did Popular Problem
+I was sick for a week but got back on the LC grind. Did most water medium today; its a simple two pointer problem so it was fine.
+Going to keep on trucking.
