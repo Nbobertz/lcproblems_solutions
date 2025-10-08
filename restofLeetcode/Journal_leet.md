@@ -95,3 +95,6 @@ Ended up doing another easy problem later on that involved encoding and decoding
 ## Day 20: 10/4/25: Got Sick, Back at it. Did Popular Problem
 I was sick for a week but got back on the LC grind. Did most water medium today; its a simple two pointer problem so it was fine.
 Going to keep on trucking.
+
+## Day 21 ish: 10/7/25: Forgot to do journal
+Forgot to do the journal thing. Did a couple of problems dealing with stacks and sets and forgot to update but github reflects the updates
