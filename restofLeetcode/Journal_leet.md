@@ -101,3 +101,6 @@ Forgot to do the journal thing. Did a couple of problems dealing with stacks and
 
 ## Day 22: 10/8/25: Did a Problem in Under 20 Minutes First Try
 Did an easy problem today and I got optimum time and space complexity in the first try. It was a bucket sort problem so that felt kinda good. Still need to worry about other problems but I can see progress.
+
+## Day 23: 10/9/25: Did An Easy Problem
+Did an easy problem at work today. I have honestly no idea how the problem works. It was a simple two pointer problem but I had no idea how the logic works. I just sent it and it worked.
