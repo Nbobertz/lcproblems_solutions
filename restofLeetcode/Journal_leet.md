@@ -98,3 +98,6 @@ Going to keep on trucking.
 
 ## Day 21 ish: 10/7/25: Forgot to do journal
 Forgot to do the journal thing. Did a couple of problems dealing with stacks and sets and forgot to update but github reflects the updates
+
+## Day 22: 10/8/25: Did a Problem in Under 20 Minutes First Try
+Did an easy problem today and I got optimum time and space complexity in the first try. It was a bucket sort problem so that felt kinda good. Still need to worry about other problems but I can see progress.
