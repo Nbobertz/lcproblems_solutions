@@ -104,3 +104,8 @@ Did an easy problem today and I got optimum time and space complexity in the fir
 
 ## Day 23: 10/9/25: Did An Easy Problem
 Did an easy problem at work today. I have honestly no idea how the problem works. It was a simple two pointer problem but I had no idea how the logic works. I just sent it and it worked.
+
+Did another one
+
+## Day 24: 10/12/25: Did Stack Problems
+Did a stack problem today. Getting back in the hang of things. I need to get stack down and then do some graphs and I should be good to go
