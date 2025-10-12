@@ -109,3 +109,4 @@ Did another one
 
 ## Day 24: 10/12/25: Did Stack Problems
 Did a stack problem today. Getting back in the hang of things. I need to get stack down and then do some graphs and I should be good to go
+Did another stack problem, just append and see if last three characters are == 'abc'

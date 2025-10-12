@@ -11,3 +11,21 @@ class Solution(object):
             return True
         elif len(s) != 0:
             return False
+
+class Solution(object):
+    def isValid(self, s):
+        if len(s) < 3:
+            return False
+
+        stack = []
+        for c in s:
+            stack.append(c)
+            if len(stack)>=3:
+                if stack[-1] == 'c' and stack[-2] == 'b' and stack[-3] == 'a':
+                    stack.pop()
+                    stack.pop()
+                    stack.pop()
+        if len(stack) == 0:
+            return True
+        elif len(stack) > 0:
+            return False
