@@ -112,3 +112,8 @@ Did a stack problem today. Getting back in the hang of things. I need to get sta
 Did another stack problem, just append and see if last three characters are == 'abc'
 
 Did the first tree problem of the season. maximum depth
+
+## Day 25: 10/13/25: Did Weird Problem
+Today I did a problem that was a simple reduction problem. The idea here is that you will scan through an array and pop from the index -1 point if you see an anagram.
+
+It made optimal time complexity. It was similiar to the many anagrams problem
