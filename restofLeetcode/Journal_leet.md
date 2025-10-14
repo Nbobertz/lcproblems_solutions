@@ -110,3 +110,15 @@ Did another one
 ## Day 24: 10/12/25: Did Stack Problems
 Did a stack problem today. Getting back in the hang of things. I need to get stack down and then do some graphs and I should be good to go
 Did another stack problem, just append and see if last three characters are == 'abc'
+
+Did the first tree problem of the season. maximum depth
+
+## Day 25: 10/13/25: Did Weird Problem
+Today I did a problem that was a simple reduction problem. The idea here is that you will scan through an array and pop from the index -1 point if you see an anagram.
+
+It made optimal time complexity. It was similiar to the many anagrams problem
+
+## Day 26: 10/14/25: Did Easy That Failed
+Today I did an easy problem that I actually could not figure out on my own. The problem was poorly explained and I had this crazy long soluion.
+
+Another user had a much easier solution so that was nice.
