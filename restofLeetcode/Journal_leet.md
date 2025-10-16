@@ -122,3 +122,6 @@ It made optimal time complexity. It was similiar to the many anagrams problem
 Today I did an easy problem that I actually could not figure out on my own. The problem was poorly explained and I had this crazy long soluion.
 
 Another user had a much easier solution so that was nice.
+
+## Day 27 : 10/15/25: Did Rotated Sorted Array
+Today I attempted to do a medium problem and could not get it in time. I had several problems but I will keep trying.
