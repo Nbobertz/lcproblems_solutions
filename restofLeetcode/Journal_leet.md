@@ -130,3 +130,4 @@ Did my first linked list of the iteration.
 
 ## Day 28: 10/15/25: Did Two Pointer
 Did a two pointer question today. At first had a hard time getting it but eventually got it.
+Got my first two pointer medium problem done via sorting. This was problem number 2491
