@@ -127,3 +127,6 @@ Another user had a much easier solution so that was nice.
 Today I attempted to do a medium problem and could not get it in time. I had several problems but I will keep trying.
 Also did palindromic substring. Had the right idea down just did not flush it out all the way.
 Did my first linked list of the iteration.
+
+## Day 28: 10/15/25: Did Two Pointer
+Did a two pointer question today. At first had a hard time getting it but eventually got it.
