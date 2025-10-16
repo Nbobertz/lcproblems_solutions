@@ -125,4 +125,5 @@ Another user had a much easier solution so that was nice.
 
 ## Day 27 : 10/15/25: Did Rotated Sorted Array
 Today I attempted to do a medium problem and could not get it in time. I had several problems but I will keep trying.
-Also did palindromic substring. Had the right idea down just did not flush it out all the way
+Also did palindromic substring. Had the right idea down just did not flush it out all the way.
+Did my first linked list of the iteration.
