@@ -138,3 +138,8 @@ Did valid palindrom again today. Was pretty simple and I got it first try which 
 Also did two sum II, input array is sorted. Got it on first try unlike the other night. Getting pretty good at two pointers
 
 Also did number of distinct averages
+
+## Day 30: 10/18/25: Did Two Pointer
+Today is two pointer day, did valid palinbdrome again to warm up. Also can't spell.
+
+Did a couple of sorting probmlems and rotate-list problem
