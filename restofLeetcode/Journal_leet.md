@@ -131,3 +131,8 @@ Did my first linked list of the iteration.
 ## Day 28: 10/15/25: Did Two Pointer
 Did a two pointer question today. At first had a hard time getting it but eventually got it.
 Got my first two pointer medium problem done via sorting. This was problem number 2491
+
+## Day 29: 10/17/25: Did Valid Palindrom Today again
+Did valid palindrom again today. Was pretty simple and I got it first try which was kinda nice.
+
+Also did two sum II, input array is sorted. Got it on first try unlike the other night. Getting pretty good at two pointers
