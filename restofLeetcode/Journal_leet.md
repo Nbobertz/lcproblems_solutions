@@ -136,3 +136,5 @@ Got my first two pointer medium problem done via sorting. This was problem numbe
 Did valid palindrom again today. Was pretty simple and I got it first try which was kinda nice.
 
 Also did two sum II, input array is sorted. Got it on first try unlike the other night. Getting pretty good at two pointers
+
+Also did number of distinct averages
