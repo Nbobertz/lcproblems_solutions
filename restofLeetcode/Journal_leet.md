@@ -142,4 +142,6 @@ Also did number of distinct averages
 ## Day 30: 10/18/25: Did Two Pointer
 Today is two pointer day, did valid palinbdrome again to warm up. Also can't spell.
 
-Did a couple of sorting probmlems and rotate-list problem
+Did a couple of sorting probmlems and rotate-list problem.
+
+Did sort by rarity easy
