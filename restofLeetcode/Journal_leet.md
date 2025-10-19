@@ -144,4 +144,4 @@ Today is two pointer day, did valid palinbdrome again to warm up. Also can't spe
 
 Did a couple of sorting probmlems and rotate-list problem.
 
-Did sort by rarity easy
+Did sort by rarity easy. And did number of strings that appear as substring
