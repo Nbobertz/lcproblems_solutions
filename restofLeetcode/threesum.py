@@ -39,7 +39,7 @@ def solution():
 
 
 
-#below is neetcode's code. The above code I could not edit the dictionary in place. Neetcode just changed the a variable and sorted the list ahead of time.
+#below is neetcode's code. The above code I could not edit the dictionary in place. DSA_Prep just changed the a variable and sorted the list ahead of time.
 def solution2():
     res = []
     nums.sort()

@@ -145,3 +145,6 @@ Today is two pointer day, did valid palinbdrome again to warm up. Also can't spe
 Did a couple of sorting probmlems and rotate-list problem.
 
 Did sort by rarity easy. And did number of strings that appear as substring
+
+## Day 31: 10/19/25: Did Linked List
+Did return middle of linked list problem. Was pretty simple and got it first try in optimal time and space complexity. Getting pretty good at the easy stuff.

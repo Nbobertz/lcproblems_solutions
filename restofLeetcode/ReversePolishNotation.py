@@ -46,7 +46,7 @@ def solution():
     return answer
 
 
-#problem came up with an edge case. Neetcode's solution solved it. I think the problem came down to me appending to the other stack wrong.
+#problem came up with an edge case. DSA_Prep's solution solved it. I think the problem came down to me appending to the other stack wrong.
 def solution2():
     stack = []
     for c in tokens:
