@@ -38,7 +38,7 @@ def solution():
                 print(lefover_change)
     return answer
 
-#the problem is that I misinterpreted the question. We are supposed to keep track of the bills needed and not the total amount. Below is Neetcode's solution
+#the problem is that I misinterpreted the question. We are supposed to keep track of the bills needed and not the total amount. Below is DSA_Prep's solution
 
 def solution2():
     answer = True

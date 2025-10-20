@@ -43,7 +43,7 @@ def solution():
     return answer
 
 
-#I got close but coudnt quite get the hashmap solution figured out. Neetcode did it with a Set and it makes much more sense. First turn nums into a set to eliminate all doubles (get's rid of edge cases). Then we make a longest variable. Then we loop through the set and find the first start of the longest subset. Counting forward we then add 1 and store the variable until we hit the end.
+#I got close but coudnt quite get the hashmap solution figured out. DSA_Prep did it with a Set and it makes much more sense. First turn nums into a set to eliminate all doubles (get's rid of edge cases). Then we make a longest variable. Then we loop through the set and find the first start of the longest subset. Counting forward we then add 1 and store the variable until we hit the end.
 
 def solution2():
     numset=set(nums)

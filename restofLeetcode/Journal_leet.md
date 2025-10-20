@@ -122,3 +122,31 @@ It made optimal time complexity. It was similiar to the many anagrams problem
 Today I did an easy problem that I actually could not figure out on my own. The problem was poorly explained and I had this crazy long soluion.
 
 Another user had a much easier solution so that was nice.
+
+## Day 27 : 10/15/25: Did Rotated Sorted Array
+Today I attempted to do a medium problem and could not get it in time. I had several problems but I will keep trying.
+Also did palindromic substring. Had the right idea down just did not flush it out all the way.
+Did my first linked list of the iteration.
+
+## Day 28: 10/15/25: Did Two Pointer
+Did a two pointer question today. At first had a hard time getting it but eventually got it.
+Got my first two pointer medium problem done via sorting. This was problem number 2491
+
+## Day 29: 10/17/25: Did Valid Palindrom Today again
+Did valid palindrom again today. Was pretty simple and I got it first try which was kinda nice.
+
+Also did two sum II, input array is sorted. Got it on first try unlike the other night. Getting pretty good at two pointers
+
+Also did number of distinct averages
+
+## Day 30: 10/18/25: Did Two Pointer
+Today is two pointer day, did valid palinbdrome again to warm up. Also can't spell.
+
+Did a couple of sorting probmlems and rotate-list problem.
+
+Did sort by rarity easy. And did number of strings that appear as substring
+
+## Day 31: 10/19/25: Did Linked List
+Did return middle of linked list problem. Was pretty simple and got it first try in optimal time and space complexity. Getting pretty good at the easy stuff.
+
+Also did a binary search and sort problem.
