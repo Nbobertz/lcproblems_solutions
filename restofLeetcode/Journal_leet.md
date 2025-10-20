@@ -150,3 +150,7 @@ Did sort by rarity easy. And did number of strings that appear as substring
 Did return middle of linked list problem. Was pretty simple and got it first try in optimal time and space complexity. Getting pretty good at the easy stuff.
 
 Also did a binary search and sort problem.
+
+## Day 32: 10/20/25: Did Medium Stack
+Started to do stacks since I think I don't get the monotomic stuff intutivly. Going to knock out a couple of problems today.
+Did a stack medium problem that was super simple.
