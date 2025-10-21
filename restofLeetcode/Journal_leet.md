@@ -155,3 +155,7 @@ Also did a binary search and sort problem.
 Started to do stacks since I think I don't get the monotomic stuff intutivly. Going to knock out a couple of problems today.
 Did a stack medium problem that was super simple.
 Did verify preorder traversal problem.
+
+## Day 33: 10/21/25: Did Easy Today; Lazy
+I was not feeling leetcode at all today I just did one easy stack problem regarding multiplying or something like that.
+It was Baseball-game leetcode; just use a stack and perform operations as you see them.
