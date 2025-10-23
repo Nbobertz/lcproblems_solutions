@@ -159,3 +159,7 @@ Did verify preorder traversal problem.
 ## Day 33: 10/21/25: Did Easy Today; Lazy
 I was not feeling leetcode at all today I just did one easy stack problem regarding multiplying or something like that.
 It was Baseball-game leetcode; just use a stack and perform operations as you see them.
+
+## Day 34: 10/22/25: Did Easy Stack Today; Had a Movie
+Did not have much time to dedicate to LC tonight. I got off work and then had to go to see a movie so that ate into alot of my time.
+I have kept the streak alive.
