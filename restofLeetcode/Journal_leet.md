@@ -163,3 +163,7 @@ It was Baseball-game leetcode; just use a stack and perform operations as you se
 ## Day 34: 10/22/25: Did Easy Stack Today; Had a Movie
 Did not have much time to dedicate to LC tonight. I got off work and then had to go to see a movie so that ate into alot of my time.
 I have kept the streak alive.
+
+## Day 35: 10/23/25: Did Easy Stacks
+Still doing stack problems. Going to start doing medium problems now as I think I have the hang of easy stack problems now.
+Did an easy stack tonight since I am having to work late
