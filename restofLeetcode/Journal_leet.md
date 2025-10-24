@@ -168,3 +168,6 @@ I have kept the streak alive.
 Still doing stack problems. Going to start doing medium problems now as I think I have the hang of easy stack problems now.
 Did an easy stack tonight since I am having to work late.
 Did remove all occurances of substring. Is medium and was pretty simple
+
+## Day 36: 10/24/25: Did Linked List Medium
+Did a linked list medium problem today. It was listed as a medium but I actually got it done pretty easy. It should probobly be listed as a easy
