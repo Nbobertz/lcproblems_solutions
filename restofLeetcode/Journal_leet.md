@@ -166,4 +166,5 @@ I have kept the streak alive.
 
 ## Day 35: 10/23/25: Did Easy Stacks
 Still doing stack problems. Going to start doing medium problems now as I think I have the hang of easy stack problems now.
-Did an easy stack tonight since I am having to work late
+Did an easy stack tonight since I am having to work late.
+Did remove all occurances of substring. Is medium and was pretty simple
