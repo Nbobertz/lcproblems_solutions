@@ -155,3 +155,19 @@ Also did a binary search and sort problem.
 Started to do stacks since I think I don't get the monotomic stuff intutivly. Going to knock out a couple of problems today.
 Did a stack medium problem that was super simple.
 Did verify preorder traversal problem.
+
+## Day 33: 10/21/25: Did Easy Today; Lazy
+I was not feeling leetcode at all today I just did one easy stack problem regarding multiplying or something like that.
+It was Baseball-game leetcode; just use a stack and perform operations as you see them.
+
+## Day 34: 10/22/25: Did Easy Stack Today; Had a Movie
+Did not have much time to dedicate to LC tonight. I got off work and then had to go to see a movie so that ate into alot of my time.
+I have kept the streak alive.
+
+## Day 35: 10/23/25: Did Easy Stacks
+Still doing stack problems. Going to start doing medium problems now as I think I have the hang of easy stack problems now.
+Did an easy stack tonight since I am having to work late.
+Did remove all occurances of substring. Is medium and was pretty simple
+
+## Day 36: 10/24/25: Did Linked List Medium
+Did a linked list medium problem today. It was listed as a medium but I actually got it done pretty easy. It should probobly be listed as a easy
