@@ -171,3 +171,4 @@ Did remove all occurances of substring. Is medium and was pretty simple
 
 ## Day 36: 10/24/25: Did Linked List Medium
 Did a linked list medium problem today. It was listed as a medium but I actually got it done pretty easy. It should probobly be listed as a easy
+Also did a problem for doubling up numbers. Not sure why github is not marking my commit
