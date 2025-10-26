@@ -172,3 +172,8 @@ Did remove all occurances of substring. Is medium and was pretty simple
 ## Day 36: 10/24/25: Did Linked List Medium
 Did a linked list medium problem today. It was listed as a medium but I actually got it done pretty easy. It should probobly be listed as a easy
 Also did a problem for doubling up numbers. Not sure why github is not marking my commit
+
+## Day 37: 10/26/25: Flew to St.Louis for Work
+I had to fly to st.louis today for work. Deffinitly an intresting city. I am here until Thursday morning at 5:00 am. Did daily temperatures problem today and for whatever reason I thoguht it was buy/sell stock problem. Submitted the right answer for that problem but it was not hte right answer for the problem.
+
+I will continue to do LC while I am up here but it might be less.
