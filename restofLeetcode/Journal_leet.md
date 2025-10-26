@@ -177,3 +177,4 @@ Also did a problem for doubling up numbers. Not sure why github is not marking m
 I had to fly to st.louis today for work. Deffinitly an intresting city. I am here until Thursday morning at 5:00 am. Did daily temperatures problem today and for whatever reason I thoguht it was buy/sell stock problem. Submitted the right answer for that problem but it was not hte right answer for the problem.
 
 I will continue to do LC while I am up here but it might be less.
+I did an easy stack problem as well. Clear-digits might be the easiest stack problem. These are getting pretty easy.
