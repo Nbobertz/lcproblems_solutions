@@ -178,3 +178,8 @@ I had to fly to st.louis today for work. Deffinitly an intresting city. I am her
 
 I will continue to do LC while I am up here but it might be less.
 I did an easy stack problem as well. Clear-digits might be the easiest stack problem. These are getting pretty easy.
+
+## Day 38: 10/29:25: Leaving St.Louis and Did Some Work
+Just let st.louis and sitting in the airport doing leetcode right now. Did a bit problem I have to remember that he bin() function will convert an integr into binary so that we can deal with the problems that involve binary.
+
+There was a o(1) time and space complexity but I messed it up. Whatever.
