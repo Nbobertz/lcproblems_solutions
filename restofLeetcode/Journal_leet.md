@@ -189,3 +189,8 @@ Also did another problem where I just had to replace the first 6 with a 9. Prett
 Took a day off for Halloween! Did a stack problem today and got it first try as a medium in under 20 minutes. Getting pretty good at these.
 
 It was ocean view buildings stack problem. So pretty happy with the result.
+
+## Day 40: 11/1/25: Did More Problems Today
+Ok, so I did more problems today. I think I did one or two stack problems and a couple of linked list prooblems. Got a medium first try for linked list. It was the add two numbers II problem (445).
+
+I think I am getting pretty good at this. Also I am going to see how long I can fast for.
