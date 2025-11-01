@@ -183,3 +183,9 @@ I did an easy stack problem as well. Clear-digits might be the easiest stack pro
 Just let st.louis and sitting in the airport doing leetcode right now. Did a bit problem I have to remember that he bin() function will convert an integr into binary so that we can deal with the problems that involve binary.
 
 There was a o(1) time and space complexity but I messed it up. Whatever.
+Also did another problem where I just had to replace the first 6 with a 9. Pretty easy stuff and glad that I am doing the easy problems while on vacation.
+
+## Day 39: 11/1/25: Did this at 1 AM
+Took a day off for Halloween! Did a stack problem today and got it first try as a medium in under 20 minutes. Getting pretty good at these.
+
+It was ocean view buildings stack problem. So pretty happy with the result.
