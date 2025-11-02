@@ -194,3 +194,6 @@ It was ocean view buildings stack problem. So pretty happy with the result.
 Ok, so I did more problems today. I think I did one or two stack problems and a couple of linked list prooblems. Got a medium first try for linked list. It was the add two numbers II problem (445).
 
 I think I am getting pretty good at this. Also I am going to see how long I can fast for.
+
+## Day 41: 11/2/25: Doing Sliding Window Now
+I have done sliding window before but I am folloing the neet roadmap so now it's sliding window time. Just did the buy/sell stock problem and got it first try but that is easy.
