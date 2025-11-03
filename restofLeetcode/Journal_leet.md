@@ -197,3 +197,5 @@ I think I am getting pretty good at this. Also I am going to see how long I can 
 
 ## Day 41: 11/2/25: Doing Sliding Window Now
 I have done sliding window before but I am folloing the neet roadmap so now it's sliding window time. Just did the buy/sell stock problem and got it first try but that is easy.
+
+Did maximum length substring problem. Was an easy but got stuck. Need to work on sliding window problems.
