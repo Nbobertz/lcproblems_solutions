@@ -204,3 +204,5 @@ Did maximum length substring problem. Was an easy but got stuck. Need to work on
 I feel like I need to go back to basics. Did two binary search problems today. First was the binary search problem, the second was the matrix binary search.
 
 Both were pretty simple
+
+Just did Koko, not simple.
