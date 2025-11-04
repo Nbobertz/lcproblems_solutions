@@ -189,3 +189,21 @@ Also did another problem where I just had to replace the first 6 with a 9. Prett
 Took a day off for Halloween! Did a stack problem today and got it first try as a medium in under 20 minutes. Getting pretty good at these.
 
 It was ocean view buildings stack problem. So pretty happy with the result.
+
+## Day 40: 11/1/25: Did More Problems Today
+Ok, so I did more problems today. I think I did one or two stack problems and a couple of linked list prooblems. Got a medium first try for linked list. It was the add two numbers II problem (445).
+
+I think I am getting pretty good at this. Also I am going to see how long I can fast for.
+
+## Day 41: 11/2/25: Doing Sliding Window Now
+I have done sliding window before but I am folloing the neet roadmap so now it's sliding window time. Just did the buy/sell stock problem and got it first try but that is easy.
+
+Did maximum length substring problem. Was an easy but got stuck. Need to work on sliding window problems.
+
+## Day 42: 11/3/25: Doing Binary Search Again
+I feel like I need to go back to basics. Did two binary search problems today. First was the binary search problem, the second was the matrix binary search.
+
+Both were pretty simple
+
+Just did Koko, not simple.
+Did find min in rotated sorted arrray. Kinda had the idea but could not finish it
