@@ -208,3 +208,8 @@ Also did a math problem
 
 Just did Koko, not simple.
 Did find min in rotated sorted arrray. Kinda had the idea but could not finish it
+
+## Day 43: 11/4/25: Did A Greedy
+Kinda bouncing aroudn here. Did a problem I thought was a stack but it was a greedy; I don't even know greedy lol. Obviously I got it wrong so I need to go back and practice sliding window and stuff like that.
+
+Also I want to get into RAG so that might be cool for work
