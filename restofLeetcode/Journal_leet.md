@@ -206,3 +206,4 @@ I feel like I need to go back to basics. Did two binary search problems today. F
 Both were pretty simple
 
 Just did Koko, not simple.
+Did find min in rotated sorted arrray. Kinda had the idea but could not finish it
