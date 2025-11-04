@@ -204,6 +204,7 @@ Did maximum length substring problem. Was an easy but got stuck. Need to work on
 I feel like I need to go back to basics. Did two binary search problems today. First was the binary search problem, the second was the matrix binary search.
 
 Both were pretty simple
+Also did a math problem
 
 Just did Koko, not simple.
 Did find min in rotated sorted arrray. Kinda had the idea but could not finish it
