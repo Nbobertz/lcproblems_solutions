@@ -213,3 +213,5 @@ Did find min in rotated sorted arrray. Kinda had the idea but could not finish i
 Kinda bouncing aroudn here. Did a problem I thought was a stack but it was a greedy; I don't even know greedy lol. Obviously I got it wrong so I need to go back and practice sliding window and stuff like that.
 
 Also I want to get into RAG so that might be cool for work
+
+Did teh repeated dna sequence leetcode problem. Got it firs try in under 10 mintues doing sliding window. Pretty good but keep going.
