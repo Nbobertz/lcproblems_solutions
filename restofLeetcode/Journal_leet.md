@@ -215,3 +215,10 @@ Kinda bouncing aroudn here. Did a problem I thought was a stack but it was a gre
 Also I want to get into RAG so that might be cool for work
 
 Did teh repeated dna sequence leetcode problem. Got it firs try in under 10 mintues doing sliding window. Pretty good but keep going.
+
+## Day 44: 11/5/25: Did Sliding Window Again
+Did another sliding window problem that required to find anagrams in an array. I got the o log n solution which was not optimal but it did work.
+
+The proper solution was to create a map of frequency and then just check to se if the string slice matched up to the slice.
+
+It was close enought and a medium
