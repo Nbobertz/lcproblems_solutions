@@ -226,4 +226,6 @@ It was close enought and a medium
 ## Day 45: 11/5/25: Did Stack Problem And Got NonOptimal
 I did a stack problem today and failed to get the opimal solution but it went through. I think my solution was o(n) but the problem might have been o(1). The idea is that you will remove all k subsequent characters that are the same and return the array after it has been collapsed. This is the palantir problem.
 
-It might be a bitwise problem
+It might be a bitwise problem. Was not, just was idiot in how I wrote the code and had an extra loop.
+
+Also did most rainwater medium. got it first try after not having done it in forever.
