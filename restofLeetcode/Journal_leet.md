@@ -229,3 +229,7 @@ I did a stack problem today and failed to get the opimal solution but it went th
 It might be a bitwise problem. Was not, just was idiot in how I wrote the code and had an extra loop.
 
 Also did most rainwater medium. got it first try after not having done it in forever.
+
+## Day 46: 11/8/25: Did Linked List Problem
+Did a linked list problem where you had to go through a linked list and return all numbers greater to the right.
+My solution was not optimal but it got on the board so that works I guess.
