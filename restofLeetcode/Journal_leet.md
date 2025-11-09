@@ -233,3 +233,8 @@ Also did most rainwater medium. got it first try after not having done it in for
 ## Day 46: 11/8/25: Did Linked List Problem
 Did a linked list problem where you had to go through a linked list and return all numbers greater to the right.
 My solution was not optimal but it got on the board so that works I guess.
+
+## Day 47: 11/9/25: Did Easy Subraction Problem
+Did a problem today where it was just subracting continously until one number hit 0.
+
+Was pretty simple.
