@@ -204,6 +204,39 @@ Did maximum length substring problem. Was an easy but got stuck. Need to work on
 I feel like I need to go back to basics. Did two binary search problems today. First was the binary search problem, the second was the matrix binary search.
 
 Both were pretty simple
+Also did a math problem
 
 Just did Koko, not simple.
 Did find min in rotated sorted arrray. Kinda had the idea but could not finish it
+
+## Day 43: 11/4/25: Did A Greedy
+Kinda bouncing aroudn here. Did a problem I thought was a stack but it was a greedy; I don't even know greedy lol. Obviously I got it wrong so I need to go back and practice sliding window and stuff like that.
+
+Also I want to get into RAG so that might be cool for work
+
+Did teh repeated dna sequence leetcode problem. Got it firs try in under 10 mintues doing sliding window. Pretty good but keep going.
+
+## Day 44: 11/5/25: Did Sliding Window Again
+Did another sliding window problem that required to find anagrams in an array. I got the o log n solution which was not optimal but it did work.
+
+The proper solution was to create a map of frequency and then just check to se if the string slice matched up to the slice.
+
+It was close enought and a medium
+
+## Day 45: 11/5/25: Did Stack Problem And Got NonOptimal
+I did a stack problem today and failed to get the opimal solution but it went through. I think my solution was o(n) but the problem might have been o(1). The idea is that you will remove all k subsequent characters that are the same and return the array after it has been collapsed. This is the palantir problem.
+
+It might be a bitwise problem. Was not, just was idiot in how I wrote the code and had an extra loop.
+
+Also did most rainwater medium. got it first try after not having done it in forever.
+
+## Day 46: 11/8/25: Did Linked List Problem
+Did a linked list problem where you had to go through a linked list and return all numbers greater to the right.
+My solution was not optimal but it got on the board so that works I guess.
+
+## Day 47: 11/9/25: Did Easy Subraction Problem
+Did a problem today where it was just subracting continously until one number hit 0.
+
+Also had to do the other easy divid by zero problem.
+
+Was pretty simple.
