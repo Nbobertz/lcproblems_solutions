@@ -248,3 +248,5 @@ Started off the night with an easy problem. It was just subtracting from the str
 Was pretty easy to do.
 
 Working on monotomic stacks as they always trip me up. Did another and kinda got it.
+
+I need to get better at monotomic stacks
