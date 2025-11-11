@@ -246,3 +246,5 @@ Was pretty simple.
 ## Day 48: 11/10/25: Did Easy Subtraction and Medium
 Started off the night with an easy problem. It was just subtracting from the string until the characters were not in there.
 Was pretty easy to do.
+
+Working on monotomic stacks as they always trip me up
