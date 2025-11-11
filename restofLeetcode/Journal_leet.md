@@ -237,6 +237,12 @@ My solution was not optimal but it got on the board so that works I guess.
 ## Day 47: 11/9/25: Did Easy Subraction Problem
 Did a problem today where it was just subracting continously until one number hit 0.
 
+Got stuck on an easy problem. Goign to take a break for an hour or so
+
 Also had to do the other easy divid by zero problem.
 
 Was pretty simple.
+
+## Day 48: 11/10/25: Did Easy Subtraction and Medium
+Started off the night with an easy problem. It was just subtracting from the string until the characters were not in there.
+Was pretty easy to do.
