@@ -250,3 +250,8 @@ Was pretty easy to do.
 Working on monotomic stacks as they always trip me up. Did another and kinda got it.
 
 I need to get better at monotomic stacks
+
+## Day 49: 11/11/25: Did Easy and Got Interview
+Got an interview with AWS today. It's time to start grinding out all AWS problems.
+Did several medium problems today, was just beating my head against the wall. Great...
+Anyways I did them.
