@@ -258,3 +258,5 @@ Anyways I did them.
 
 ## Day 50: 11/13/25: Did Problems Yesterday Just did not Update
 Today I am really grinding out the possible AWS problems. I read mixed results online which sucks but hey at least I am doing them all.
+
+Did movie times problem, did two pointer and got it first try
