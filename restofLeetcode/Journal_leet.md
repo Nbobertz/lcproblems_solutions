@@ -260,3 +260,5 @@ Anyways I did them.
 Today I am really grinding out the possible AWS problems. I read mixed results online which sucks but hey at least I am doing them all.
 
 Did movie times problem, did two pointer and got it first try
+
+Did First Unique letter in string
