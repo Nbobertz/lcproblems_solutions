@@ -255,3 +255,6 @@ I need to get better at monotomic stacks
 Got an interview with AWS today. It's time to start grinding out all AWS problems.
 Did several medium problems today, was just beating my head against the wall. Great...
 Anyways I did them.
+
+## Day 50: 11/13/25: Did Problems Yesterday Just did not Update
+Today I am really grinding out the possible AWS problems. I read mixed results online which sucks but hey at least I am doing them all.
