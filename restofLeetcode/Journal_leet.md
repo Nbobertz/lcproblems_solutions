@@ -262,3 +262,5 @@ Today I am really grinding out the possible AWS problems. I read mixed results o
 Did movie times problem, did two pointer and got it first try
 
 Did First Unique letter in string
+
+Did find binary string
