@@ -246,3 +246,30 @@ Was pretty simple.
 ## Day 48: 11/10/25: Did Easy Subtraction and Medium
 Started off the night with an easy problem. It was just subtracting from the string until the characters were not in there.
 Was pretty easy to do.
+
+Working on monotomic stacks as they always trip me up. Did another and kinda got it.
+
+I need to get better at monotomic stacks
+
+## Day 49: 11/11/25: Did Easy and Got Interview
+Got an interview with AWS today. It's time to start grinding out all AWS problems.
+Did several medium problems today, was just beating my head against the wall. Great...
+Anyways I did them.
+
+## Day 50: 11/13/25: Did Problems Yesterday Just did not Update
+Today I am really grinding out the possible AWS problems. I read mixed results online which sucks but hey at least I am doing them all.
+
+Did movie times problem, did two pointer and got it first try
+
+Did First Unique letter in string
+
+Did find binary string
+
+## Day 51: 11/15/25: Did BFS Problems Today
+Went out last night and missed leetcode; all well.
+
+Today I did a bfs solution problem. It came pretty naturally which was nice
+
+## Day 52: 11/16/25: Did BFS and Sort Problem Today Before Work
+Today I first tried the Minimum-Distance-between values in bfs tree. Was kinda nice to get it with optimal time and space complexity first try.
+I have to got to work so I will knock out more problems when I get back.
