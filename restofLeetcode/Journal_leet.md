@@ -269,3 +269,7 @@ Did find binary string
 Went out last night and missed leetcode; all well.
 
 Today I did a bfs solution problem. It came pretty naturally which was nice
+
+## Day 52: 11/16/25: Did BFS and Sort Problem Today Before Work
+Today I first tried the Minimum-Distance-between values in bfs tree. Was kinda nice to get it with optimal time and space complexity first try.
+I have to got to work so I will knock out more problems when I get back.
