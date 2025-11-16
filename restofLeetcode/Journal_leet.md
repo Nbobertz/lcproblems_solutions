@@ -264,3 +264,8 @@ Did movie times problem, did two pointer and got it first try
 Did First Unique letter in string
 
 Did find binary string
+
+## Day 51: 11/15/25: Did BFS Problems Today
+Went out last night and missed leetcode; all well.
+
+Today I did a bfs solution problem. It came pretty naturally which was nice
