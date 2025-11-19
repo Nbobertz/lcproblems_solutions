@@ -273,3 +273,13 @@ Today I did a bfs solution problem. It came pretty naturally which was nice
 ## Day 52: 11/16/25: Did BFS and Sort Problem Today Before Work
 Today I first tried the Minimum-Distance-between values in bfs tree. Was kinda nice to get it with optimal time and space complexity first try.
 I have to got to work so I will knock out more problems when I get back.
+
+## Day 53: 11/17/25: Did Hashmap Lookup
+Did a quick problem today where you have a list of characters in a string and you want to return the first one that is repeated.
+
+The idea is that you iterate through everything and if you see it repeated twice you return it. Pretty easy.
+
+## Day 54: 11/18/25: Did Multiply Problem
+Did a problem tonight that was literally just x *= 2 and check if in array. Was pretty easy
+
+Did a couple word search stuff as well and two mediums for sub-arrays
