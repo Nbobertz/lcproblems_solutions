@@ -281,3 +281,5 @@ The idea is that you iterate through everything and if you see it repeated twice
 
 ## Day 54: 11/18/25: Did Multiply Problem
 Did a problem tonight that was literally just x *= 2 and check if in array. Was pretty easy
+
+Did a couple word search stuff as well and two mediums for sub-arrays
