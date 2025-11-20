@@ -285,4 +285,6 @@ Did a problem tonight that was literally just x *= 2 and check if in array. Was 
 Did a couple word search stuff as well and two mediums for sub-arrays
 
 ## Day 55: 11/19/25: Knocking Out Monotomic Stacks
-Started heading straight into Monotomic Stack problems. Got the first one 'daily temps' pretty easy. It was a introdutory one. Going to do more monotomic stacks
+Started heading straight into Monotomic Stack problems. Got the first one 'daily temps' pretty easy. It was a introdutory one. Going to do more monotomic stacks.
+
+Just did building problem and got it first try using a monotomic stack. Need to do more to solidify since I am going on vacation for a whole week.
