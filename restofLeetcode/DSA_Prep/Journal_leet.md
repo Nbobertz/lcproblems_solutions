@@ -283,3 +283,6 @@ The idea is that you iterate through everything and if you see it repeated twice
 Did a problem tonight that was literally just x *= 2 and check if in array. Was pretty easy
 
 Did a couple word search stuff as well and two mediums for sub-arrays
+
+## Day 55: 11/19/25: Knocking Out Monotomic Stacks
+Started heading straight into Monotomic Stack problems. Got the first one 'daily temps' pretty easy. It was a introdutory one. Going to do more monotomic stacks
