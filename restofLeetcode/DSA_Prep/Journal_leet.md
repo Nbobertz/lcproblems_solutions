@@ -288,3 +288,5 @@ Did a couple word search stuff as well and two mediums for sub-arrays
 Started heading straight into Monotomic Stack problems. Got the first one 'daily temps' pretty easy. It was a introdutory one. Going to do more monotomic stacks.
 
 Just did building problem and got it first try using a monotomic stack. Need to do more to solidify since I am going on vacation for a whole week.
+
+Did another montomic medium problem and solved it in less then 10 minutes. Pretty good about that one. That is 3 monotomics in less then an hour.
