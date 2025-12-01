@@ -295,3 +295,4 @@ Did another montomic medium problem and solved it in less then 10 minutes. Prett
 Went out on vacation for work. Spent the entire time not doing Leetcode but now I am back on the grid.
 
 Did an array problem to warm up. Did another array problem taht involved strings
+Did spiral matrix problem
