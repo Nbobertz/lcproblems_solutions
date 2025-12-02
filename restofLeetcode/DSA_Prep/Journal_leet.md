@@ -301,5 +301,5 @@ Total for today = around 10
 ## Day 57: 12/2/25: Grinding It Out
 Today I started with inversing a linked list. I am going to nonstop do linked list problems today.
 
-Did inverse linked list twice, then attempted linked list 2. Also did pally-linked list.
+Did inverse linked list twice, then attempted linked list 2. Also did pally-linked list. Did remove_nodes_from_linked_list on first go using a monotomic stack and linked list combo; feel pretty good about that.
 
