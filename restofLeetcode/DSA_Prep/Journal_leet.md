@@ -285,4 +285,21 @@ Did a problem tonight that was literally just x *= 2 and check if in array. Was 
 Did a couple word search stuff as well and two mediums for sub-arrays
 
 ## Day 55: 11/19/25: Knocking Out Monotomic Stacks
-Started heading straight into Monotomic Stack problems. Got the first one 'daily temps' pretty easy. It was a introdutory one. Going to do more monotomic stacks
+Started heading straight into Monotomic Stack problems. Got the first one 'daily temps' pretty easy. It was a introdutory one. Going to do more monotomic stacks.
+
+Just did building problem and got it first try using a monotomic stack. Need to do more to solidify since I am going on vacation for a whole week.
+
+Did another montomic medium problem and solved it in less then 10 minutes. Pretty good about that one. That is 3 monotomics in less then an hour.
+
+## Day 56: 12/1/25: Went on Vacation
+Went out on vacation for work. Spent the entire time not doing Leetcode but now I am back on the grid.
+
+Did an array problem to warm up. Did another array problem taht involved strings. Did spiral matrix problem. Did number of islands problem as well. Did largest island size problem. Also did permitted of Island on Graph. Also did diamate of binary tree problem. Did subtree of another tree. Also did game of life.
+
+Total for today = around 10
+
+## Day 57: 12/2/25: Grinding It Out
+Today I started with inversing a linked list. I am going to nonstop do linked list problems today.
+
+Did inverse linked list twice, then attempted linked list 2. Also did pally-linked list. Did remove_nodes_from_linked_list on first go using a monotomic stack and linked list combo; feel pretty good about that.
+
