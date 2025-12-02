@@ -294,4 +294,6 @@ Did another montomic medium problem and solved it in less then 10 minutes. Prett
 ## Day 56: 12/1/25: Went on Vacation
 Went out on vacation for work. Spent the entire time not doing Leetcode but now I am back on the grid.
 
-Did an array problem to warm up. Did another array problem taht involved strings. Did spiral matrix problem. Did number of islands problem as well. Did largest island size problem. Also did permitted of Island on Graph. Also did diamate of binary tree problem. Did subtree of another tree
+Did an array problem to warm up. Did another array problem taht involved strings. Did spiral matrix problem. Did number of islands problem as well. Did largest island size problem. Also did permitted of Island on Graph. Also did diamate of binary tree problem. Did subtree of another tree. Also did game of life.
+
+Total for today = around 10
