@@ -297,3 +297,6 @@ Went out on vacation for work. Spent the entire time not doing Leetcode but now 
 Did an array problem to warm up. Did another array problem taht involved strings. Did spiral matrix problem. Did number of islands problem as well. Did largest island size problem. Also did permitted of Island on Graph. Also did diamate of binary tree problem. Did subtree of another tree. Also did game of life.
 
 Total for today = around 10
+
+## Day 57: 12/2/25: Grinding It Out
+Today I started with inversing a linked list. I am going to nonstop do linked list problems today
