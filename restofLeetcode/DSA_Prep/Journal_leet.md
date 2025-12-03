@@ -305,3 +305,6 @@ Did inverse linked list twice, then attempted linked list 2. Also did pally-link
 
 Total today is 9
 
+## Day 58: 12/3/25: Doing Tree's Today
+Today we are doing nothing but tree problems. Just got done doing invert binary tree.
+
