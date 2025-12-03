@@ -308,5 +308,5 @@ Total today is 9
 ## Day 58: 12/3/25: Doing Tree's Today
 Today we are doing nothing but tree problems. 
 
-Just got done doing invert binary tree. Did max-depth binary tree.
+Just got done doing invert binary tree. Did max-depth binary tree. Also I did a balanced binary tree problem via recursive dfs.
 
