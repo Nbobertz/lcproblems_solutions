@@ -314,7 +314,8 @@ Total for today so far is 9
 
 ## Day 59: 12/4/25: Doing BackTracking Today
 Today is nothing but backtracking. I already did two problems. The first is max subsets and the second was subsets II.
-The first problem I needed to do was a bit hard the second I got pretty easy.
+The first problem I needed to do was a bit hard the second I got pretty easy. Did subsets 1 again after.
 
-Total so far is 2
+
+Total so far is 3
 
