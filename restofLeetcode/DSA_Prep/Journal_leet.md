@@ -321,6 +321,7 @@ Also did generate parenthesis with help from Leetcode but I got it after shown t
 Also did word search, had the concept down but could not get the final answer to save my life. I need to practice graph dfs problems.
 
 Tried a lc hard. It was wordsearch 2. Got 90% of a solution working.
+Did another stack problem.
 
 
 Total so far is 6
