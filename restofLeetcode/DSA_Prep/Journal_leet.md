@@ -326,3 +326,8 @@ Did another stack problem.
 
 Total so far is 6
 
+## Day 60: 12/5/25: About to GI
+About to go into Gallatin. Did a LC problem to warm up.
+
+This was some leetcode easy problem. Got it in under 10 minutes.
+
