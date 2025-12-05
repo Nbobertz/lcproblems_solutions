@@ -318,6 +318,8 @@ The first problem I needed to do was a bit hard the second I got pretty easy. Di
 
 Also did generate parenthesis with help from Leetcode but I got it after shown the code.
 
+Also did word search, had the concept down but could not get the final answer to save my life. I need to practice graph dfs problems.
 
-Total so far is 5
+
+Total so far is 6
 
