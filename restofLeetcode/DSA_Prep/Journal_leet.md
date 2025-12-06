@@ -301,5 +301,40 @@ Total for today = around 10
 ## Day 57: 12/2/25: Grinding It Out
 Today I started with inversing a linked list. I am going to nonstop do linked list problems today.
 
-Did inverse linked list twice, then attempted linked list 2. Also did pally-linked list. Did remove_nodes_from_linked_list on first go using a monotomic stack and linked list combo; feel pretty good about that.
+Did inverse linked list twice, then attempted linked list 2. Also did pally-linked list. Did remove_nodes_from_linked_list on first go using a monotomic stack and linked list combo; feel pretty good about that. Did delete_node_in_linked_list with help. Also did remove linked list elements. Also did remove center of linked list. Also did middle of linked list. Did Linked list Components as well.
 
+Total today is 9
+
+## Day 58: 12/3/25: Doing Tree's Today
+Today we are doing nothing but tree problems. 
+
+Just got done doing invert binary tree. Did max-depth binary tree. Also I did a balanced binary tree problem via recursive dfs. Did Same Tree. Did inorder tree traversal via bfs. Did Binary Tree Level Order Transversal. Did Average on each floor. Did sumleft tree. Also did shortest word distance in two pointer pass
+
+Total for today so far is 9
+
+## Day 59: 12/4/25: Doing BackTracking Today
+Today is nothing but backtracking. I already did two problems. The first is max subsets and the second was subsets II.
+The first problem I needed to do was a bit hard the second I got pretty easy. Did subsets 1 again after. Did combonation sum with healp from neetcode.
+
+Also did generate parenthesis with help from Leetcode but I got it after shown the code.
+
+Also did word search, had the concept down but could not get the final answer to save my life. I need to practice graph dfs problems.
+
+Tried a lc hard. It was wordsearch 2. Got 90% of a solution working.
+Did another stack problem.
+
+
+Total so far is 6
+
+## Day 60: 12/5/25: About to GI Plus Graphs Later
+About to go into Gallatin. Did a LC problem to warm up.
+
+This was some leetcode easy problem. Got it in under 10 minutes.
+
+Did great, really knocked it out of the park and did everything perfectly.
+
+Still doing LC though. Doing nothing but graphs today to warm up. Did number of islands
+
+Kinda got a bfs solution. Just did not understand the problem
+
+Total today 3. Friday and tired.
