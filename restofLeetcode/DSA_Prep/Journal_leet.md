@@ -338,3 +338,7 @@ Still doing LC though. Doing nothing but graphs today to warm up. Did number of 
 Kinda got a bfs solution. Just did not understand the problem
 
 Total today 3. Friday and tired.
+
+## Day 61: 12/6/25: Did Graphs And Recursion
+Getting pretty good but still not there.
+Today I did one question so far. Have a headache.
