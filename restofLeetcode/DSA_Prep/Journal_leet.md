@@ -335,3 +335,6 @@ Did great, really knocked it out of the park and did everything perfectly.
 
 Still doing LC though. Doing nothing but graphs today to warm up. Did number of islands
 
+Kinda got a bfs solution. Just did not understand the problem
+
+Total today 3. Friday and tired.
