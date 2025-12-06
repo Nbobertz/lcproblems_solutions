@@ -326,8 +326,12 @@ Did another stack problem.
 
 Total so far is 6
 
-## Day 60: 12/5/25: About to GI
+## Day 60: 12/5/25: About to GI Plus Graphs Later
 About to go into Gallatin. Did a LC problem to warm up.
 
 This was some leetcode easy problem. Got it in under 10 minutes.
+
+Did great, really knocked it out of the park and did everything perfectly.
+
+Still doing LC though. Doing nothing but graphs today to warm up. Did number of islands
 
