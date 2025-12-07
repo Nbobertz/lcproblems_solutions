@@ -342,3 +342,8 @@ Total today 3. Friday and tired.
 ## Day 61: 12/6/25: Did Graphs And Recursion
 Getting pretty good but still not there.
 Today I did one question so far. Have a headache.
+
+## Day 62: 12/7/25: Doing Nothing But DP today
+Started doing DP today. Going to do nothign but DP today and see how far I can get
+
+Started off with counting stairs
