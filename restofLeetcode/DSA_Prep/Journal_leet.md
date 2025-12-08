@@ -338,3 +338,16 @@ Still doing LC though. Doing nothing but graphs today to warm up. Did number of 
 Kinda got a bfs solution. Just did not understand the problem
 
 Total today 3. Friday and tired.
+
+## Day 61: 12/6/25: Did Graphs And Recursion
+Getting pretty good but still not there.
+Today I did one question so far. Have a headache.
+
+## Day 62: 12/7/25: Doing Nothing But DP today
+Started doing DP today. Going to do nothign but DP today and see how far I can get
+
+Started off with counting stairs. Did fibinonanci number. Also did min cost climbing stairs. Did nth tribonachi
+
+Need alot of work on DP but getting it. Did one that I did not put here, had to copy result because it was top right to bottom left of grid. Did another one regardign alice and bob takign turns with odd numbers. Also did house robber.
+
+Total for today 7
