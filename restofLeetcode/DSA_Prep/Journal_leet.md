@@ -348,6 +348,6 @@ Started doing DP today. Going to do nothign but DP today and see how far I can g
 
 Started off with counting stairs. Did fibinonanci number. Also did min cost climbing stairs. Did nth tribonachi
 
-Need alot of work on DP but getting it.
+Need alot of work on DP but getting it. Did one that I did not put here, had to copy result because it was top right to bottom left of grid. Did another one regardign alice and bob takign turns with odd numbers
 
 Total for today 4.
