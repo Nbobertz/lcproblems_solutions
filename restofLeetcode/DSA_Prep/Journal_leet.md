@@ -346,4 +346,8 @@ Today I did one question so far. Have a headache.
 ## Day 62: 12/7/25: Doing Nothing But DP today
 Started doing DP today. Going to do nothign but DP today and see how far I can get
 
-Started off with counting stairs. Did fibinonanci number. Also did min cost climbing stairs.
+Started off with counting stairs. Did fibinonanci number. Also did min cost climbing stairs. Did nth tribonachi
+
+Need alot of work on DP but getting it.
+
+Total for today 4.
