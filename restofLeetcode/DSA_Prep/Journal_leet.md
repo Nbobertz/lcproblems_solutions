@@ -351,3 +351,8 @@ Started off with counting stairs. Did fibinonanci number. Also did min cost clim
 Need alot of work on DP but getting it. Did one that I did not put here, had to copy result because it was top right to bottom left of grid. Did another one regardign alice and bob takign turns with odd numbers. Also did house robber.
 
 Total for today 7
+
+## Day 63: 12/8/25: Did Montonic Stack
+Did the An int today. Absolutly destroyed it and I think I did good. The problem delth with having to iterate over a input log of zones and determin what was in teh time stamp. zone1 = [('dog',1),('cat',2)] and return what animal was in the time stamp if there was none we just return the previous seen thing in the zone.
+
+Also did a monotonic stack problem but purposly taking today off to recover
