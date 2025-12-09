@@ -356,3 +356,8 @@ Total for today 7
 Did the An int today. Absolutly destroyed it and I think I did good. The problem delth with having to iterate over a input log of zones and determin what was in teh time stamp. zone1 = [('dog',1),('cat',2)] and return what animal was in the time stamp if there was none we just return the previous seen thing in the zone.
 
 Also did a monotonic stack problem but purposly taking today off to recover
+
+## Day 64: 12/9/25: Failed A Int
+While I gave a good solution it was not the optiomal one, kinda of a bummer because the guy said I passed in the interview.
+Looking back over the problem it is clear it was a binary search solution but I could not think of it.
+That makes 4 LC interviews I have failed. I will have to keep going
