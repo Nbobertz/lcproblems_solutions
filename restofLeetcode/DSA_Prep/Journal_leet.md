@@ -362,4 +362,6 @@ While I gave a good solution it was not the optiomal one, kinda of a bummer beca
 Looking back over the problem it is clear it was a binary search solution but I could not think of it.
 That makes 4 LC interviews I have failed. I will have to keep going.
 
-Did about 3 questions today. Going to keep it alive
+Did about 3 questions today. Going to keep it alive. Doing nothing but binary search problems today. Did about 3/4 binary search problems. Need to do more binary search
+
+Going to start doing mock assesments tonight every night after practice. The idea is to build good habits for random questions.
