@@ -366,4 +366,4 @@ Did about 3 questions today. Going to keep it alive. Doing nothing but binary se
 
 Did an easy array problem just to make myself feel better.
 
-Going to start doing mock assesments tonight every night after practice. The idea is to build good habits for random questions.
+Going to start doing mock assesments tonight every night after practice. The idea is to build good habits for random questions. Did two more assesments. Got pretty good results for both
