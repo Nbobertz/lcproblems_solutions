@@ -360,4 +360,6 @@ Also did a monotonic stack problem but purposly taking today off to recover
 ## Day 64: 12/9/25: Failed A Int
 While I gave a good solution it was not the optiomal one, kinda of a bummer because the guy said I passed in the interview.
 Looking back over the problem it is clear it was a binary search solution but I could not think of it.
-That makes 4 LC interviews I have failed. I will have to keep going
+That makes 4 LC interviews I have failed. I will have to keep going.
+
+Did about 3 questions today. Going to keep it alive
