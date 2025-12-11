@@ -367,3 +367,8 @@ Did about 3 questions today. Going to keep it alive. Doing nothing but binary se
 Did an easy array problem just to make myself feel better.
 
 Going to start doing mock assesments tonight every night after practice. The idea is to build good habits for random questions. Did two more assesments. Got pretty good results for both
+
+## Day 65: 12/10/25: Keep Going
+Had a bad day yesterday but I will keep doing these problems. Did a daily graph one today and kinda got the solution. As always I need to slow down and read the question several times. The problem comes down to reading and not getting and the constraints.
+
+Did 1 graph today.
