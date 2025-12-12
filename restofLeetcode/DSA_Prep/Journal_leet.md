@@ -372,3 +372,10 @@ Going to start doing mock assesments tonight every night after practice. The ide
 Had a bad day yesterday but I will keep doing these problems. Did a daily graph one today and kinda got the solution. As always I need to slow down and read the question several times. The problem comes down to reading and not getting and the constraints.
 
 Did 1 graph today.
+
+## Day 66: 112/11/25: Did First Medium DP By Myself
+As the title suggests I did the first DP problem by myself today. It was a medium and I almost got it 100 % first try. I did not store teh calculation properly.
+
+It was Taking Maximium Energy.
+
+Did one DP problem today.
