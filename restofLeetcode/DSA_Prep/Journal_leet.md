@@ -376,6 +376,6 @@ Did 1 graph today.
 ## Day 66: 112/11/25: Did First Medium DP By Myself
 As the title suggests I did the first DP problem by myself today. It was a medium and I almost got it 100 % first try. I did not store teh calculation properly.
 
-It was Taking Maximium Energy.
+It was Taking Maximium Energy. Further, I did an assesment and did fliping and image and leaf similar trees.
 
-Did one DP problem today.
+Did 3 problems today
