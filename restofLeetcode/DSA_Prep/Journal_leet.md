@@ -383,4 +383,6 @@ Did 3 problems today
 ## Day 67: 12/15/25: Took Some Time Off
 Path of Exile 2 came out, no lifed that for a couple days and now back at it. Did a problem just to get back into it. It was a sliding window problem that was marked as dynamic programing but I solved it in o(n) time. Not sure.
 
-Problems today 1
+Did a dfs traversal
+
+Problems today 3
