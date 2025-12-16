@@ -386,3 +386,8 @@ Path of Exile 2 came out, no lifed that for a couple days and now back at it. Di
 Did a dfs traversal and postorder. Did another one where I sum up stuff as I see it
 
 Problems today 5
+
+## Day 68: 12/15/25: Did Trees
+Took some time to do tree problems earlier and today. Did one so far.
+
+So far today I have done one. Needed help but getting bottom up recursion down
