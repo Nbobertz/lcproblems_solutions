@@ -391,3 +391,7 @@ Problems today 5
 Took some time to do tree problems earlier and today. Did one so far.
 
 So far today I have done one. Needed help but getting bottom up recursion down
+
+## 69: 12/17/25: Did A Couple of Math Problems
+Did a couple math problems today to get back into the swing of things. Going to get back into LC starting tomarrow.
+
