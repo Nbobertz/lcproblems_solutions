@@ -400,4 +400,4 @@ Did a couple math problems today to get back into the swing of things. Going to 
 I have been playing path of Exile and now getting back into Leetcode. I am doing nothign but tree problems today.
 Starting back off at easy and moving up.
 
-So far did 1
+So far did 2
