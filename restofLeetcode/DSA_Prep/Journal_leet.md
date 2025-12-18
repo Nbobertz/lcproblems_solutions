@@ -395,3 +395,9 @@ So far today I have done one. Needed help but getting bottom up recursion down
 ## 69: 12/17/25: Did A Couple of Math Problems
 Did a couple math problems today to get back into the swing of things. Going to get back into LC starting tomarrow.
 
+
+## Day 70: 12/17/25: Getting Back Into it With Trees
+I have been playing path of Exile and now getting back into Leetcode. I am doing nothign but tree problems today.
+Starting back off at easy and moving up.
+
+So far did 1
