@@ -400,4 +400,6 @@ Did a couple math problems today to get back into the swing of things. Going to 
 I have been playing path of Exile and now getting back into Leetcode. I am doing nothign but tree problems today.
 Starting back off at easy and moving up.
 
-So far did 4
+So far did 5
+
+The last one I just could not get recursivly. The goal here is to practice recursion until it is second nature
