@@ -408,5 +408,6 @@ The last one I just could not get recursivly. The goal here is to practice recur
 It's christmas time so I am taking it a bit slower but still doing it. Starting over on the neetcode 250
 The idea is to finish it before February
 Doing arrays. Did a medium first try under 10 minutes.
-Did 3 so far today
+Did 5/6 depending on assemsent stuff so far today
 Did 1 assesment for Micrsoft today. Got some weird algorithm thing but got optimal time.
+Did another assesment as well.
