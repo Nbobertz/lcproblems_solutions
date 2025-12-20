@@ -351,3 +351,64 @@ Started off with counting stairs. Did fibinonanci number. Also did min cost clim
 Need alot of work on DP but getting it. Did one that I did not put here, had to copy result because it was top right to bottom left of grid. Did another one regardign alice and bob takign turns with odd numbers. Also did house robber.
 
 Total for today 7
+
+## Day 63: 12/8/25: Did Montonic Stack
+Did the An int today. Absolutly destroyed it and I think I did good. The problem delth with having to iterate over a input log of zones and determin what was in teh time stamp. zone1 = [('dog',1),('cat',2)] and return what animal was in the time stamp if there was none we just return the previous seen thing in the zone.
+
+Also did a monotonic stack problem but purposly taking today off to recover
+
+## Day 64: 12/9/25: Failed A Int
+While I gave a good solution it was not the optiomal one, kinda of a bummer because the guy said I passed in the interview.
+Looking back over the problem it is clear it was a binary search solution but I could not think of it.
+That makes 4 LC interviews I have failed. I will have to keep going.
+
+Did about 3 questions today. Going to keep it alive. Doing nothing but binary search problems today. Did about 3/4 binary search problems. Need to do more binary search
+
+Did an easy array problem just to make myself feel better.
+
+Going to start doing mock assesments tonight every night after practice. The idea is to build good habits for random questions. Did two more assesments. Got pretty good results for both
+
+## Day 65: 12/10/25: Keep Going
+Had a bad day yesterday but I will keep doing these problems. Did a daily graph one today and kinda got the solution. As always I need to slow down and read the question several times. The problem comes down to reading and not getting and the constraints.
+
+Did 1 graph today.
+
+## Day 66: 12/11/25: Did First Medium DP By Myself
+As the title suggests I did the first DP problem by myself today. It was a medium and I almost got it 100 % first try. I did not store teh calculation properly.
+
+It was Taking Maximium Energy. Further, I did an assesment and did fliping and image and leaf similar trees.
+
+Did 3 problems today
+
+## Day 67: 12/15/25: Took Some Time Off
+Path of Exile 2 came out, no lifed that for a couple days and now back at it. Did a problem just to get back into it. It was a sliding window problem that was marked as dynamic programing but I solved it in o(n) time. Not sure.
+
+Did a dfs traversal and postorder. Did another one where I sum up stuff as I see it
+
+Problems today 5
+
+## Day 68: 12/15/25: Did Trees
+Took some time to do tree problems earlier and today. Did one so far.
+
+So far today I have done one. Needed help but getting bottom up recursion down
+
+## 69: 12/17/25: Did A Couple of Math Problems
+Did a couple math problems today to get back into the swing of things. Going to get back into LC starting tomarrow.
+
+
+## Day 70: 12/17/25: Getting Back Into it With Trees
+I have been playing path of Exile and now getting back into Leetcode. I am doing nothign but tree problems today.
+Starting back off at easy and moving up.
+
+So far did 5
+
+The last one I just could not get recursivly. The goal here is to practice recursion until it is second nature
+
+## Day 71: 12/20/25: It's Christmas Time
+It's christmas time so I am taking it a bit slower but still doing it. Starting over on the neetcode 250
+The idea is to finish it before February
+Doing arrays. Did a medium first try under 10 minutes.
+Did 6/7 depending on assemsent stuff so far today
+Did 1 assesment for Micrsoft today. Got some weird algorithm thing but got optimal time.
+Did another assesment as well.
+Also did build a que using stacks
