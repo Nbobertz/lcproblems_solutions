@@ -403,3 +403,8 @@ Starting back off at easy and moving up.
 So far did 5
 
 The last one I just could not get recursivly. The goal here is to practice recursion until it is second nature
+
+## Day 71: 12/20/25: It's Christmas Time
+It's christmas time so I am taking it a bit slower but still doing it. Starting over on the neetcode 250
+The idea is to finish it before February
+Doing arrays
