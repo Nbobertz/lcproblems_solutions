@@ -412,3 +412,7 @@ Did 6/7 depending on assemsent stuff so far today
 Did 1 assesment for Micrsoft today. Got some weird algorithm thing but got optimal time.
 Did another assesment as well.
 Also did build a que using stacks
+
+## Day 72: 12/21/25: Doing LC 250
+Doing the LC 250 during Christmas time. It is going to be slow going.
+Did two today from the neetcode 250
