@@ -417,3 +417,7 @@ Also did build a que using stacks
 Doing the LC 250 during Christmas time. It is going to be slow going.
 Did two today from the neetcode 250
 Did another one on sorting and got it in under 20 minutes first try
+
+## Day 73: 12/22/25: Doing LC 250 on Two Pointer
+Did a couple of problems today. Did a two pointer problem that was easy adn going to do some more.
+So far is 1
