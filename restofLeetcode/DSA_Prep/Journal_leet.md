@@ -424,4 +424,5 @@ So far is 2
 
 ## Day 74: 12/23/25: Doing LCD 250 on Stack
 Doing nothing but stack problems today. Did two so far but getting tired. Might take a nap.
-Did asteroid collision and an aesy
+Did asteroid collision and an aesy, also did stock span
+So far today I did 3
