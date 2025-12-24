@@ -421,3 +421,7 @@ Did another one on sorting and got it in under 20 minutes first try
 ## Day 73: 12/22/25: Doing LC 250 on Two Pointer
 Did a couple of problems today. Did a two pointer problem that was easy adn going to do some more. Did valid palindrome 2 medium by myself in under 2 minutes
 So far is 2
+
+## Day 74: 12/23/25: Doing LCD 250 on Stack
+Doing nothing but stack problems today. Did two so far but getting tired. Might take a nap.
+Did asteroid collision and an aesy
