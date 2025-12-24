@@ -429,4 +429,4 @@ So far today I did 3
 
 ## Day 75: 12/24/25: Doing LCD 250 on Two Pointers
 Going to do some two pointer problems then go back to stack problems.
-Did 3sum today.
+Did 3sum today.Also did simplify path
