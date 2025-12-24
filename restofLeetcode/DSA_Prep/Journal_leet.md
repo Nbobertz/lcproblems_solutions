@@ -412,3 +412,17 @@ Did 6/7 depending on assemsent stuff so far today
 Did 1 assesment for Micrsoft today. Got some weird algorithm thing but got optimal time.
 Did another assesment as well.
 Also did build a que using stacks
+
+## Day 72: 12/21/25: Doing LC 250
+Doing the LC 250 during Christmas time. It is going to be slow going.
+Did two today from the neetcode 250
+Did another one on sorting and got it in under 20 minutes first try
+
+## Day 73: 12/22/25: Doing LC 250 on Two Pointer
+Did a couple of problems today. Did a two pointer problem that was easy adn going to do some more. Did valid palindrome 2 medium by myself in under 2 minutes
+So far is 2
+
+## Day 74: 12/23/25: Doing LCD 250 on Stack
+Doing nothing but stack problems today. Did two so far but getting tired. Might take a nap.
+Did asteroid collision and an aesy, also did stock span
+So far today I did 3
