@@ -426,3 +426,12 @@ So far is 2
 Doing nothing but stack problems today. Did two so far but getting tired. Might take a nap.
 Did asteroid collision and an aesy, also did stock span
 So far today I did 3
+
+## Day 75: 12/24/25: Doing LCD 250 on Two Pointers
+Going to do some two pointer problems then go back to stack problems.
+Did 3sum today.Also did simplify path
+
+## Day 76: 12/25/25: It's Christmas
+It's christmas and I am doing LC problems after opening gifts. Not going to do as many today because it's technically a holidy. Today I am doing Two Pointer Problems
+
+Did merge strings alternativly, also did make-sub-divisible
