@@ -435,3 +435,8 @@ Did 3sum today.Also did simplify path
 It's christmas and I am doing LC problems after opening gifts. Not going to do as many today because it's technically a holidy. Today I am doing Two Pointer Problems
 
 Did merge strings alternativly, also did make-sub-divisible
+
+## Day 77: 12/26/25: Have to go to Park, Did 2 Today
+As the title suggests. I have obligaitons to go to an amusment park today. SO I only got a chance to do two problems.
+
+But I will keep going.
