@@ -440,3 +440,14 @@ Did merge strings alternativly, also did make-sub-divisible
 As the title suggests. I have obligaitons to go to an amusment park today. SO I only got a chance to do two problems.
 
 But I will keep going.
+
+## Day 78: 12/28/25: Was At Event, Finally Got Back
+I had to go to an event today, finally got back. I am going to keep notes on each problem I solve along with the pattern. Further I started doing these steps for each problem
+First, read the problem out-loud. Ask clarrifying questions give an example input and an example output
+Second, capture edge constraints. What if there was negative numbers for example
+Third, talk about the possible algorithms and data structures we could use
+Fourth, start coding up a solution
+Fifth, explain your code
+Sixth, run code and think of optimisations.
+
+Doing two pointer like this today. Problems done so far == 1
