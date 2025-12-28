@@ -450,4 +450,4 @@ Fourth, start coding up a solution
 Fifth, explain your code
 Sixth, run code and think of optimisations.
 
-Doing two pointer like this today. Problems done so far == 1
+Doing two pointer like this today. Problems done so far == 2
