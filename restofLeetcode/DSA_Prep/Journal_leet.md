@@ -455,4 +455,4 @@ Doing two pointer like this today. Problems done so far =4
 ## Day 79: 12/31/25: Took Two Days Off For Holidays
 Took two days off for the holidays. Also I found a sheet online of most popular patterns so I am going to do those. Its about 300 problems but I think it's worth it as it has the sub-patterns.
 
-So far I have done one today
+So far I have done 2 today.
