@@ -435,3 +435,24 @@ Did 3sum today.Also did simplify path
 It's christmas and I am doing LC problems after opening gifts. Not going to do as many today because it's technically a holidy. Today I am doing Two Pointer Problems
 
 Did merge strings alternativly, also did make-sub-divisible
+
+## Day 77: 12/26/25: Have to go to Park, Did 2 Today
+As the title suggests. I have obligaitons to go to an amusment park today. SO I only got a chance to do two problems.
+
+But I will keep going.
+
+## Day 78: 12/28/25: Was At Event, Finally Got Back
+I had to go to an event today, finally got back. I am going to keep notes on each problem I solve along with the pattern. Further I started doing these steps for each problem
+First, read the problem out-loud. Ask clarrifying questions give an example input and an example output
+Second, capture edge constraints. What if there was negative numbers for example
+Third, talk about the possible algorithms and data structures we could use
+Fourth, start coding up a solution
+Fifth, explain your code
+Sixth, run code and think of optimisations.
+
+Doing two pointer like this today. Problems done so far =4
+
+## Day 79: 12/31/25: Took Two Days Off For Holidays
+Took two days off for the holidays. Also I found a sheet online of most popular patterns so I am going to do those. Its about 300 problems but I think it's worth it as it has the sub-patterns.
+
+So far I have done 5 today.
