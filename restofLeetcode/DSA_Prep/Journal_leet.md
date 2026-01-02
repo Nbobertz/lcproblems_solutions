@@ -460,4 +460,4 @@ So far I have done 5 today.
 ## Day 80: 1/1/26: Happy New Year
 Happy new year! We are already in 2026 and still doing leetcode. Warmed up with 3sum today and going to continue on. Still working on all patterns for two pointer.
 
-So far did one today.
+So far did 2 today.
