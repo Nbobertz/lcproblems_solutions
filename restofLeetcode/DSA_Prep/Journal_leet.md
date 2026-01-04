@@ -461,3 +461,9 @@ So far I have done 5 today.
 Happy new year! We are already in 2026 and still doing leetcode. Warmed up with 3sum today and going to continue on. Still working on all patterns for two pointer.
 
 So far did 2 today.
+
+## Day 81: 1/3/26: Leetcoding it up
+Not sure what to say for these updates. Still doing leetcode and today we are handeling cycle problems.
+Just did an easy problem by myself in under 5 minutes so tahts pretty good.
+
+So far did 1
