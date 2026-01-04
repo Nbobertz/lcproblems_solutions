@@ -466,4 +466,4 @@ So far did 2 today.
 Not sure what to say for these updates. Still doing leetcode and today we are handeling cycle problems.
 Just did an easy problem by myself in under 5 minutes so tahts pretty good.
 
-So far did 2
+So far did 3
