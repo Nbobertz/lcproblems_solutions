@@ -471,4 +471,4 @@ So far did 3
 ## Day 82: 1/4/26: Doing Leetcode
 Geting pretty good at medium problems now. I think next time I will get it.
 
-So far did 1
+So far did 2
