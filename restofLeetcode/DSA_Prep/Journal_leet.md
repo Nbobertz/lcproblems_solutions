@@ -460,4 +460,21 @@ So far I have done 5 today.
 ## Day 80: 1/1/26: Happy New Year
 Happy new year! We are already in 2026 and still doing leetcode. Warmed up with 3sum today and going to continue on. Still working on all patterns for two pointer.
 
-So far did one today.
+So far did 2 today.
+
+## Day 81: 1/3/26: Leetcoding it up
+Not sure what to say for these updates. Still doing leetcode and today we are handeling cycle problems.
+Just did an easy problem by myself in under 5 minutes so tahts pretty good.
+
+So far did 3
+
+## Day 82: 1/4/26: Doing Leetcode
+Geting pretty good at medium problems now. I think next time I will get it.
+Doing nothing but modyfing in place arrays now
+
+So far did 3
+
+## Day 83: 1/5/26: Doing Convergence Again
+Today I am doing convergence (3sum) again. Just got to keep grinding. I found it hard to conceptually solve the problem but I am getting there. Did a normal problem and as usual overcomplicated it. Two-sum input array is sorted can be solved with two pointer. Did another linked list problem
+
+Today I did 5 problems
