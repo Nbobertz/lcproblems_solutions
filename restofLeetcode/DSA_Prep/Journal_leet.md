@@ -473,3 +473,8 @@ Geting pretty good at medium problems now. I think next time I will get it.
 Doing nothing but modyfing in place arrays now
 
 So far did 3
+
+## Day 83: 1/5/26: Doing Convergence Again
+Today I am doing convergence (3sum) again. Just got to keep grinding. I found it hard to conceptually solve the problem but I am getting there
+
+Today I did 1 problem
