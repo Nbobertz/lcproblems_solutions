@@ -478,3 +478,9 @@ So far did 3
 Today I am doing convergence (3sum) again. Just got to keep grinding. I found it hard to conceptually solve the problem but I am getting there. Did a normal problem and as usual overcomplicated it. Two-sum input array is sorted can be solved with two pointer. Did another linked list problem
 
 Today I did 5 problems
+
+## Day 84: 1/6/26: Doing String Reversal
+Got pinged for Microsoft interview today. Got to start the grind more then usual.
+Today starting with string reversal
+
+Did 3 today
