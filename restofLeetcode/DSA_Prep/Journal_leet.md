@@ -483,8 +483,8 @@ Today I did 5 problems
 Got pinged for Microsoft interview today. Got to start the grind more then usual.
 Today starting with string reversal
 
-Did 6 today - 4 problems, 2 for assesement
+Did 8 today - 4 problems, 4 for assesement
 
-Grade on the assesment is 100% as I got both in about 12 minutes with optimal time and space
+Grade on the assesment is 100% as I got both in about 12 minutes with optimal time and space. On the second assesment I got 100% as well, it was flipping an image and leaf nodes of a tree
 
-Did one assesment for Microsoft
+Did two assesments for Microsoft
