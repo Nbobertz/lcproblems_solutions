@@ -492,4 +492,4 @@ Did two assesments for Microsoft
 ## Day 85: 1/7/26: Doing Nothing But Binary Search
 Doing nothing but binary search today to get familiar with the patterns.
 
-So far did 3 of them
+So far did 4 of them
