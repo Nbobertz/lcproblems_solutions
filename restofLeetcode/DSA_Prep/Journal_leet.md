@@ -488,3 +488,5 @@ Did 8 today - 4 problems, 4 for assesement
 Grade on the assesment is 100% as I got both in about 12 minutes with optimal time and space. On the second assesment I got 100% as well, it was flipping an image and leaf nodes of a tree
 
 Did two assesments for Microsoft
+
+## Day 85: 1/7/26: Doing Nothing But Binary Search
