@@ -490,3 +490,6 @@ Grade on the assesment is 100% as I got both in about 12 minutes with optimal ti
 Did two assesments for Microsoft
 
 ## Day 85: 1/7/26: Doing Nothing But Binary Search
+Doing nothing but binary search today to get familiar with the patterns.
+
+So far did 3 of them
