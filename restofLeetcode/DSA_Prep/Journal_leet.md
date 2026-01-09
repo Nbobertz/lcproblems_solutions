@@ -497,4 +497,10 @@ So far did 4 of them
 ## Day 86: 1/8/26: Forgot To Update Yesterday
 Today I am doing several Microsoft Leetcode problems and continuing with DSA learning via patterns on Google Docs
 
-So far did 4
+So far did 6
+
+Did a phone assesment got I would say a 70 percent
+
+## Day 87: 1/9/26: Still Doing Binary Search
+Still doing binary search. It's taking some time because I wan't to make sure I get it down.
+I have done 2 so far.
