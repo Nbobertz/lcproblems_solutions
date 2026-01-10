@@ -503,4 +503,6 @@ Did a phone assesment got I would say a 70 percent
 
 ## Day 87: 1/9/26: Still Doing Binary Search
 Still doing binary search. It's taking some time because I wan't to make sure I get it down.
-I have done 2 so far.
+Did an apple assesemtn and didnt pass because it was a math problem where you had to know a trick.
+
+I have done 5 so far.
