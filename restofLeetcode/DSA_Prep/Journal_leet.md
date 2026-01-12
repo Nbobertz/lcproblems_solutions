@@ -510,3 +510,8 @@ I have done 5 so far.
 ## Day 88: 1/11/26: Did LinkedList and Graph
 Did some MC interview problems in anticipaton for the upcoming round. I think I am going to do good but even if I don't I will continue going.
 Did 4 today
+
+## Day 89: 1/12/26: About to Go Into MSFT
+Here we go again. I did some DSA to prepare but I am going to wing it and see how I do.
+Did 2 so far today. 3 if you count what this guy is about to give me.
+Wish me luck.
