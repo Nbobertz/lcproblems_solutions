@@ -506,3 +506,7 @@ Still doing binary search. It's taking some time because I wan't to make sure I 
 Did an apple assesemtn and didnt pass because it was a math problem where you had to know a trick.
 
 I have done 5 so far.
+
+## Day 88: 1/11/26: Did LinkedList and Graph
+Did some MC interview problems in anticipaton for the upcoming round. I think I am going to do good but even if I don't I will continue going.
+Did 4 today
