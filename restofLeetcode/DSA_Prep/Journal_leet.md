@@ -515,3 +515,9 @@ Did 4 today
 Here we go again. I did some DSA to prepare but I am going to wing it and see how I do.
 Did 2 so far today. 3 if you count what this guy is about to give me.
 Wish me luck.
+
+## Day 90: 1/13/26: Did MSFT and Passed
+Got through the tech screen, it was a dp problem (fibonachi sequence) and I got 90% of the the problem and all edge constraints. Was not updating memo at first.
+
+Really tired today so i am only doing a couple of heap problems. Outside that its pretty normal
+Did 1 so far
