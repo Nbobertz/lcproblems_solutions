@@ -526,4 +526,5 @@ Did 1 so far
 Here we are again, back on the grind.
 Doing nothing but heaps today. Figured I could get them down after a while
 
-Did 3/4 heap problems. 
+Did 3/4 heap problems. Also did a medium level assesment and got 1 of 3 right but spent 1.5 hours doing it so in total
+I did max of 7 problems
