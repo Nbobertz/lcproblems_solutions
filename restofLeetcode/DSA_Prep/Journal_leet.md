@@ -521,3 +521,7 @@ Got through the tech screen, it was a dp problem (fibonachi sequence) and I got 
 
 Really tired today so i am only doing a couple of heap problems. Outside that its pretty normal
 Did 1 so far
+
+## Day 91: 1/14/26: Back on the grind
+Here we are again, back on the grind.
+Doing nothing but heaps today. Figured I could get them down after a while
