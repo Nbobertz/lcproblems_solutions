@@ -525,3 +525,5 @@ Did 1 so far
 ## Day 91: 1/14/26: Back on the grind
 Here we are again, back on the grind.
 Doing nothing but heaps today. Figured I could get them down after a while
+
+Did 3/4 heap problems. 
