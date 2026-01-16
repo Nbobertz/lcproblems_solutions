@@ -535,3 +535,5 @@ Ok, so I got the confirmation. MSFT is intrested in me for 4 positions. It is ti
 This means I need to get a study plan and stick to it. I am going to do the neetcode 250 and grind it out. I am going to reset the progress and do about 10-15 problems per day. I will try to schedule it for the first week in February.
 
 I will also do 1/2 systems designs per day.
+
+So far have done 2 of them
