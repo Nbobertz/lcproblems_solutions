@@ -528,3 +528,10 @@ Doing nothing but heaps today. Figured I could get them down after a while
 
 Did 3/4 heap problems. Also did a medium level assesment and got 1 of 3 right but spent 1.5 hours doing it so in total
 I did max of 7 problems
+
+## Day 92: 1/15/26: MSFT GRIND Here WE GO!
+Ok, so I got the confirmation. MSFT is intrested in me for 4 positions. It is time for me to live eat and breath leetcode and systems design.
+
+This means I need to get a study plan and stick to it. I am going to do the neetcode 250 and grind it out. I am going to reset the progress and do about 10-15 problems per day. I will try to schedule it for the first week in February.
+
+I will also do 1/2 systems designs per day.
