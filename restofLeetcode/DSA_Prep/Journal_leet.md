@@ -542,3 +542,8 @@ So my idea is to do all the neetcode 250 in two weeks. Further, I will do 1-2 as
 Today we are doing stack.
 
 Did 7 so far and did an assesment. Did ok on all and got the intuition but not the problem.
+
+Also did fizzbuzz but that one does not count.
+
+## Day 94: 1/16/26: Doing Backtracking, DP, and Graphs Today
+Doing nothing but DP, Graphs, and Backtracking today. Further, going to do two systems designs with notes.
