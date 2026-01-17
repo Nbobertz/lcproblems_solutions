@@ -536,4 +536,9 @@ This means I need to get a study plan and stick to it. I am going to do the neet
 
 I will also do 1/2 systems designs per day.
 
-So far have done 2 of them
+## Day 93: 1/16/26: MSFT Grind Doing Stack
+So my idea is to do all the neetcode 250 in two weeks. Further, I will do 1-2 assesments per day and 1 systems design with taking notes
+
+Today we are doing stack.
+
+Did 2 so far
