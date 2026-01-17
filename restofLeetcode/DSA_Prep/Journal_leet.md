@@ -548,6 +548,6 @@ Also did fizzbuzz but that one does not count.
 ## Day 94: 1/16/26: Doing Backtracking, DP, and Graphs Today; 400 PROBLEMS!!!
 Doing nothing but DP, Graphs, and Backtracking today. Further, going to do two systems designs with notes.
 
-So far did 5
+So far did 6
 
 ALSO I HIT 400 PROBLEMS Today!!!
