@@ -545,7 +545,9 @@ Did 7 so far and did an assesment. Did ok on all and got the intuition but not t
 
 Also did fizzbuzz but that one does not count.
 
-## Day 94: 1/16/26: Doing Backtracking, DP, and Graphs Today
+## Day 94: 1/16/26: Doing Backtracking, DP, and Graphs Today; 400 PROBLEMS!!!
 Doing nothing but DP, Graphs, and Backtracking today. Further, going to do two systems designs with notes.
 
-So far did 4
+So far did 5
+
+ALSO I HIT 400 PROBLEMS Today!!!
