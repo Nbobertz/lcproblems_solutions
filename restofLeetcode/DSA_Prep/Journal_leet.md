@@ -541,4 +541,4 @@ So my idea is to do all the neetcode 250 in two weeks. Further, I will do 1-2 as
 
 Today we are doing stack.
 
-Did 2 so far
+Did 3 so far
