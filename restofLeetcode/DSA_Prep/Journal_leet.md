@@ -556,3 +556,7 @@ ALSO I HIT 400 PROBLEMS Today!!!
 Doing nothing but backtracking and DP today. Also doing systems diagrams
 
 Did 3 so far today. Also did an assesement, could not finish it.... Been doing Leetcode for so long it's getting hard to progress fast. Need to constant strugle to make it through.
+
+## Day 96: 1/19/26: Doing Nothing But Intervals and Graphs
+Today I am doing nothing but interval quetions and graphs. THe trick to intervals is to sort them
+SO far I did 1 today
