@@ -555,4 +555,4 @@ ALSO I HIT 400 PROBLEMS Today!!!
 ## Day 95: 1/18/26: Doing Backtracking and DP
 Doing nothing but backtracking and DP today. Also doing systems diagrams
 
-Did 2 so far today.
+Did 3 so far today. Also did an assesement, could not finish it.... Been doing Leetcode for so long it's getting hard to progress fast. Need to constant strugle to make it through.
