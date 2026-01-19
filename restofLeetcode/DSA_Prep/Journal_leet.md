@@ -483,4 +483,80 @@ Today I did 5 problems
 Got pinged for Microsoft interview today. Got to start the grind more then usual.
 Today starting with string reversal
 
-Did 3 today
+Did 8 today - 4 problems, 4 for assesement
+
+Grade on the assesment is 100% as I got both in about 12 minutes with optimal time and space. On the second assesment I got 100% as well, it was flipping an image and leaf nodes of a tree
+
+Did two assesments for Microsoft
+
+## Day 85: 1/7/26: Doing Nothing But Binary Search
+Doing nothing but binary search today to get familiar with the patterns.
+
+So far did 4 of them
+
+## Day 86: 1/8/26: Forgot To Update Yesterday
+Today I am doing several Microsoft Leetcode problems and continuing with DSA learning via patterns on Google Docs
+
+So far did 6
+
+Did a phone assesment got I would say a 70 percent
+
+## Day 87: 1/9/26: Still Doing Binary Search
+Still doing binary search. It's taking some time because I wan't to make sure I get it down.
+Did an apple assesemtn and didnt pass because it was a math problem where you had to know a trick.
+
+I have done 5 so far.
+
+## Day 88: 1/11/26: Did LinkedList and Graph
+Did some MC interview problems in anticipaton for the upcoming round. I think I am going to do good but even if I don't I will continue going.
+Did 4 today
+
+## Day 89: 1/12/26: About to Go Into MSFT
+Here we go again. I did some DSA to prepare but I am going to wing it and see how I do.
+Did 2 so far today. 3 if you count what this guy is about to give me.
+Wish me luck.
+
+## Day 90: 1/13/26: Did MSFT and Passed
+Got through the tech screen, it was a dp problem (fibonachi sequence) and I got 90% of the the problem and all edge constraints. Was not updating memo at first.
+
+Really tired today so i am only doing a couple of heap problems. Outside that its pretty normal
+Did 1 so far
+
+## Day 91: 1/14/26: Back on the grind
+Here we are again, back on the grind.
+Doing nothing but heaps today. Figured I could get them down after a while
+
+Did 3/4 heap problems. Also did a medium level assesment and got 1 of 3 right but spent 1.5 hours doing it so in total
+I did max of 7 problems
+
+## Day 92: 1/15/26: MSFT GRIND Here WE GO!
+Ok, so I got the confirmation. MSFT is intrested in me for 4 positions. It is time for me to live eat and breath leetcode and systems design.
+
+This means I need to get a study plan and stick to it. I am going to do the neetcode 250 and grind it out. I am going to reset the progress and do about 10-15 problems per day. I will try to schedule it for the first week in February.
+
+I will also do 1/2 systems designs per day.
+
+## Day 93: 1/16/26: MSFT Grind Doing Stack
+So my idea is to do all the neetcode 250 in two weeks. Further, I will do 1-2 assesments per day and 1 systems design with taking notes
+
+Today we are doing stack.
+
+Did 7 so far and did an assesment. Did ok on all and got the intuition but not the problem.
+
+Also did fizzbuzz but that one does not count.
+
+## Day 94: 1/16/26: Doing Backtracking, DP, and Graphs Today; 400 PROBLEMS!!!
+Doing nothing but DP, Graphs, and Backtracking today. Further, going to do two systems designs with notes.
+
+So far did 6
+
+ALSO I HIT 400 PROBLEMS Today!!!
+
+## Day 95: 1/18/26: Doing Backtracking and DP
+Doing nothing but backtracking and DP today. Also doing systems diagrams
+
+Did 3 so far today. Also did an assesement, could not finish it.... Been doing Leetcode for so long it's getting hard to progress fast. Need to constant strugle to make it through.
+
+## Day 96: 1/19/26: Doing Nothing But Intervals and Graphs
+Today I am doing nothing but interval quetions and graphs. THe trick to intervals is to sort them
+SO far I did 1 today
