@@ -551,3 +551,8 @@ Doing nothing but DP, Graphs, and Backtracking today. Further, going to do two s
 So far did 6
 
 ALSO I HIT 400 PROBLEMS Today!!!
+
+## Day 95: 1/18/26: Doing Backtracking and DP
+Doing nothing but backtracking and DP today. Also doing systems diagrams
+
+Did 2 so far today.
