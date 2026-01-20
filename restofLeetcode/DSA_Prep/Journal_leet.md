@@ -559,4 +559,4 @@ Did 3 so far today. Also did an assesement, could not finish it.... Been doing L
 
 ## Day 96: 1/19/26: Doing Nothing But Intervals and Graphs
 Today I am doing nothing but interval quetions and graphs. THe trick to intervals is to sort them
-SO far I did 2 today
+SO far I did 3 today
