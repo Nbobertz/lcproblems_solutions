@@ -564,4 +564,4 @@ SO far I did 4 today
 ## Day 97: 1/20/26: 6 Days To MSFT
 Got the word today, 6 days to prep. Have to grind it out.
 Doing graphs and greedy today
-Did 1 problem so far and a systems design (bitly)
+Did 2 problem so far and a systems design (bitly)
