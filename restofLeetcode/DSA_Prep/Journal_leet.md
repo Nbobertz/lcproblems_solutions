@@ -560,3 +560,8 @@ Did 3 so far today. Also did an assesement, could not finish it.... Been doing L
 ## Day 96: 1/19/26: Doing Nothing But Intervals and Graphs
 Today I am doing nothing but interval quetions and graphs. THe trick to intervals is to sort them
 SO far I did 4 today
+
+## Day 97: 1/20/26: 6 Days To MSFT
+Got the word today, 6 days to prep. Have to grind it out.
+Doing graphs and greedy today
+Did 1 problem so far and a systems design (bitly)
