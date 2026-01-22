@@ -565,3 +565,8 @@ SO far I did 4 today
 Got the word today, 6 days to prep. Have to grind it out.
 Doing graphs and greedy today
 Did 5 problem so far and a systems design (bitly) with an assement of 2 problems that I passed. -med
+
+## Day 98: 1/21/26: 5 days to MSFT
+Doing nothing but Backtracking, Greedy, and DP today. Did a systems earlier and did ok.
+So far did 1 today
+Design Dropbox (need to remember data chunking)
