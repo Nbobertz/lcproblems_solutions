@@ -568,5 +568,10 @@ Did 5 problem so far and a systems design (bitly) with an assement of 2 problems
 
 ## Day 98: 1/21/26: 5 days to MSFT
 Doing nothing but Backtracking, Greedy, and DP today. Did a systems earlier and did ok.
-So far did 2 today
+So far did 5 today. Did an asseesment and overcomplicated it on both problems.
 Design Dropbox (need to remember data chunking)
+
+## Day 99: 1/21/26: 4 Days to MSFT
+Doing this at midnight so technically it's 3 days now but whatever.
+Spent a ton of time on systems design. Got sharding down pretty good but need ot practice more designs. This Saturday is nothing but systems design day.
+Also did 3 leetcode problems. Did a sliding window one first try which was kinda nice
