@@ -580,4 +580,4 @@ Also did 3 leetcode problems. Did a sliding window one first try which was kinda
 Getting some jumpyness now, been doing these problems nonstop. Going to do DP for a bit and then step into graphs to polish up. After that go to DP and keeep going.
 I also saw a coderpad for each interview so I might stop doing systems design; maybe. The recruiter is non-responsie
 
-Did 4 problems today so far
+Did 8 problems today so far
