@@ -581,3 +581,9 @@ Getting some jumpyness now, been doing these problems nonstop. Going to do DP fo
 I also saw a coderpad for each interview so I might stop doing systems design; maybe. The recruiter is non-responsie
 
 Did 9 problems today so far
+
+## Day 101: 1/24/26: 2 Days to MSFT
+Two days to go, doing nothing but array graphs today alogn with some DP. Going to do systems and most popular questions
+Hope I pass
+
+Did 2 so far today
