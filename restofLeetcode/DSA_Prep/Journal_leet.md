@@ -575,3 +575,9 @@ Design Dropbox (need to remember data chunking)
 Doing this at midnight so technically it's 3 days now but whatever.
 Spent a ton of time on systems design. Got sharding down pretty good but need ot practice more designs. This Saturday is nothing but systems design day.
 Also did 3 leetcode problems. Did a sliding window one first try which was kinda nice
+
+## Day 100 : 1/23/26: 3 Days to MSFT
+Getting some jumpyness now, been doing these problems nonstop. Going to do DP for a bit and then step into graphs to polish up. After that go to DP and keeep going.
+I also saw a coderpad for each interview so I might stop doing systems design; maybe. The recruiter is non-responsie
+
+Did 3 problems today so far
