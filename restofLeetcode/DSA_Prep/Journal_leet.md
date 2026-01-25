@@ -586,4 +586,4 @@ Did 9 problems today so far
 Two days to go, doing nothing but array graphs today alogn with some DP. Going to do systems and most popular questions
 Hope I pass
 
-Did 2 so far today
+Did 5/6 today and two assessment and two systems designs.
