@@ -559,4 +559,38 @@ Did 3 so far today. Also did an assesement, could not finish it.... Been doing L
 
 ## Day 96: 1/19/26: Doing Nothing But Intervals and Graphs
 Today I am doing nothing but interval quetions and graphs. THe trick to intervals is to sort them
-SO far I did 1 today
+SO far I did 4 today
+
+## Day 97: 1/20/26: 6 Days To MSFT
+Got the word today, 6 days to prep. Have to grind it out.
+Doing graphs and greedy today
+Did 5 problem so far and a systems design (bitly) with an assement of 2 problems that I passed. -med
+
+## Day 98: 1/21/26: 5 days to MSFT
+Doing nothing but Backtracking, Greedy, and DP today. Did a systems earlier and did ok.
+So far did 5 today. Did an asseesment and overcomplicated it on both problems.
+Design Dropbox (need to remember data chunking)
+
+## Day 99: 1/21/26: 4 Days to MSFT
+Doing this at midnight so technically it's 3 days now but whatever.
+Spent a ton of time on systems design. Got sharding down pretty good but need ot practice more designs. This Saturday is nothing but systems design day.
+Also did 3 leetcode problems. Did a sliding window one first try which was kinda nice
+
+## Day 100 : 1/23/26: 3 Days to MSFT
+Getting some jumpyness now, been doing these problems nonstop. Going to do DP for a bit and then step into graphs to polish up. After that go to DP and keeep going.
+I also saw a coderpad for each interview so I might stop doing systems design; maybe. The recruiter is non-responsie
+
+Did 9 problems today so far
+
+## Day 101: 1/24/26: 2 Days to MSFT
+Two days to go, doing nothing but array graphs today alogn with some DP. Going to do systems and most popular questions
+Hope I pass
+
+Did 5/6 today and two assessment and two systems designs.
+
+## Day 102: 1/25/26: 1 Day to MSFT
+I am purposly not doing anything tonight. I will look at a couple of systems designs but not do any and only glance over the most asked for MSFT.
+The idea is that when I hardcore cram for an interview it seems to color my bias. This will allow me not to.
+I will also get a solid 10 hours a sleep in prep.
+
+Joking I did two problems as an assesment and got both (did bottle water and minimum anagram)
