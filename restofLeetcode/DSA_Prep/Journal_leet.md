@@ -587,3 +587,8 @@ Two days to go, doing nothing but array graphs today alogn with some DP. Going t
 Hope I pass
 
 Did 5/6 today and two assessment and two systems designs.
+
+## Day 102: 1/25/26: 1 Day to MSFT
+I am purposly not doing anything tonight. I will look at a couple of systems designs but not do any and only glance over the most asked for MSFT.
+The idea is that when I hardcore cram for an interview it seems to color my bias. This will allow me not to.
+I will also get a solid 10 hours a sleep in prep.
