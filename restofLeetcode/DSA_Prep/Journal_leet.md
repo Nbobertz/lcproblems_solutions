@@ -594,3 +594,10 @@ The idea is that when I hardcore cram for an interview it seems to color my bias
 I will also get a solid 10 hours a sleep in prep.
 
 Joking I did two problems as an assesment and got both (did bottle water and minimum anagram)
+
+## Day 103: 1/26/26: I Might Have Done It
+I just might have done it. I had 4 interviews today with MSFT. First was manager, second was manager, third was manager, forth was IC.
+Interview 1 went great, optimal time and space. Interview went either strong hire/lean hire. Q W IV
+Interview 2 went great, spent a ton of time jaw yacking. Interview went strong hire/lean hire Q W L rrr UC
+Interview 3 went ok, hardest of all the interviews. Threw a curve ball at me with having to debug code and then rebuild it. Interview went lean hire/strong hire. Q wLLs
+Interview 4 went good. Interview went lean hire/strong hire. Iw DP
