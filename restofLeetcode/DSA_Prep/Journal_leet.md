@@ -601,3 +601,7 @@ Interview 1 went great, optimal time and space. Interview went either strong hir
 Interview 2 went great, spent a ton of time jaw yacking. Interview went strong hire/lean hire Q W L rrr UC
 Interview 3 went ok, hardest of all the interviews. Threw a curve ball at me with having to debug code and then rebuild it. Interview went lean hire/strong hire. Q wLLs
 Interview 4 went good. Interview went lean hire/strong hire. Iw DP
+
+## Day 104: 2/1/26: Took A Week Off To Go Snowboarding
+Took a week off to go snowboarding. I think I passed MFST because they moved me onto the next stage. Today I just did one problem from the Denver airport. It was an easy problem that is a greedy soluiton
+Did one today.
