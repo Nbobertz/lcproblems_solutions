@@ -609,4 +609,4 @@ Did one today.
 ## Day 105: 6/11/26: Yeah
 As it turns out I did pass msft. Got a call from the big g so ahh shit here we go again. Starting off with the neetcode 150 again. Going to speed run in order and get up to speed.
 
-did 3 today to start off simple stuff. Going over to neetcode right now
+did 3 today to start off simple stuff. Going over to neetcode right now. Just did 3 on neetcode
