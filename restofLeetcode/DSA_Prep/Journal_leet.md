@@ -605,3 +605,6 @@ Interview 4 went good. Interview went lean hire/strong hire. Iw DP
 ## Day 104: 2/1/26: Took A Week Off To Go Snowboarding
 Took a week off to go snowboarding. I think I passed MFST because they moved me onto the next stage. Today I just did one problem from the Denver airport. It was an easy problem that is a greedy soluiton
 Did one today.
+
+## Day 105: 6/11/26: Yeah
+As it turns out I did pass msft. Got a call from the big g so ahh shit here we go again. Starting off with the neetcode 150 again. Going to speed run in order and get up to speed.
