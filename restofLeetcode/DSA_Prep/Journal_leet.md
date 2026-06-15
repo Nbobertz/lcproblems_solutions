@@ -610,3 +610,8 @@ Did one today.
 As it turns out I did pass msft. Got a call from the big g so ahh shit here we go again. Starting off with the neetcode 150 again. Going to speed run in order and get up to speed.
 
 did 3 today to start off simple stuff. Going over to neetcode right now. Just did 5/6 on neetcode
+
+## Day 104: 06/14/26: Yeah v2
+Ok, so we are back at it again. Doing two pointer today. So far I have done two of the problems on leetcode that are easy in around 5 minutes each.
+
+Going to do around 5/6 today and see how far I can get.
