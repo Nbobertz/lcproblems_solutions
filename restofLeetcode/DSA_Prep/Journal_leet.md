@@ -614,4 +614,6 @@ did 3 today to start off simple stuff. Going over to neetcode right now. Just di
 ## Day 104: 06/14/26: Yeah v2
 Ok, so we are back at it again. Doing two pointer today. So far I have done two of the problems on leetcode that are easy in around 5 minutes each.
 
-Going to do around 5/6 today and see how far I can get.
+Going to do around 5/6 today and see how far I can get. Did another 3 of them.
+
+In total I think I did 5/6 today.
