@@ -621,4 +621,6 @@ In total I think I did 5/6 today.
 ## Day 105: 06/17/26: Confirmation
 Ok, its a go. I have probobly about 20 days to get through everything. Going to send it and hope for the best. We will see.
 
-So far today did binary search and anotherp roblem.
+So far today did binary search and anotherp roblem. Also did intersection of two arrays
+
+3 today
