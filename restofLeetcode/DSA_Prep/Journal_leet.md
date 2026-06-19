@@ -624,3 +624,7 @@ Ok, its a go. I have probobly about 20 days to get through everything. Going to 
 So far today did binary search and anotherp roblem. Also did intersection of two arrays
 
 3 today
+
+## Day 106: 06/18/26: Grind Continues
+Sent out to big IPO. Still grinding away on binary since it was one of the weaker topics
+Did two today
