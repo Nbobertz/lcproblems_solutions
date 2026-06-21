@@ -628,3 +628,8 @@ So far today did binary search and anotherp roblem. Also did intersection of two
 ## Day 106: 06/18/26: Grind Continues
 Sent out to big IPO. Still grinding away on binary since it was one of the weaker topics
 Did two today
+
+## Day 107: 06/21/26: Continuing on
+Keep taking breaks. Did a systems diagram with Minh earlier today. It went pretty good. Doing leetcode now.
+
+Did 1 so far, just doing two pointer today to get that down.
