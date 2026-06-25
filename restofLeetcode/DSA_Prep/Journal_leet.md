@@ -640,3 +640,8 @@ Ok, so Minh is going to join me. We are going to blast through the DSA prep mate
 Today I did 1 so far, I am going to nolife prefix sum since I have a touchy understanding.
 
 Did one 1 so far
+
+## Day 109: 06/24/26: Tired
+Did the p thing today and then came straight back to work. Doing nothing but prefix sum today since its a weak spot of mine.
+
+So far I did prefix sum 3 times. Going to try another problem.
