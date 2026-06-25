@@ -644,4 +644,4 @@ Did one 1 so far
 ## Day 109: 06/24/26: Tired
 Did the p thing today and then came straight back to work. Doing nothing but prefix sum today since its a weak spot of mine.
 
-So far I did prefix sum 3 times. Going to try another problem.
+So far I did prefix sum 3 times. Did another prefix and got 90 % of the way there and failed (continus-sub-sum) Going to do more
