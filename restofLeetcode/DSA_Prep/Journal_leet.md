@@ -610,3 +610,38 @@ Did one today.
 As it turns out I did pass msft. Got a call from the big g so ahh shit here we go again. Starting off with the neetcode 150 again. Going to speed run in order and get up to speed.
 
 did 3 today to start off simple stuff. Going over to neetcode right now. Just did 5/6 on neetcode
+
+## Day 104: 06/14/26: Yeah v2
+Ok, so we are back at it again. Doing two pointer today. So far I have done two of the problems on leetcode that are easy in around 5 minutes each.
+
+Going to do around 5/6 today and see how far I can get. Did another 3 of them.
+
+In total I think I did 5/6 today.
+
+## Day 105: 06/17/26: Confirmation
+Ok, its a go. I have probobly about 20 days to get through everything. Going to send it and hope for the best. We will see.
+
+So far today did binary search and anotherp roblem. Also did intersection of two arrays
+
+3 today
+
+## Day 106: 06/18/26: Grind Continues
+Still grinding away on binary since it was one of the weaker topics
+Did two today
+
+## Day 107: 06/21/26: Continuing on
+Keep taking breaks. Did a systems diagram with Minh earlier today. It went pretty good. Doing leetcode now.
+
+Did 1 so far, just doing two pointer today to get that down.
+
+## Day 108: 06/23/26: It's time
+Ok, so Minh is going to join me. We are going to blast through the DSA prep material for fun.
+
+Today I did 1 so far, I am going to nolife prefix sum since I have a touchy understanding.
+
+Did one 1 so far
+
+## Day 109: 06/24/26: Tired
+Did the p thing today and then came straight back to work. Doing nothing but prefix sum today since its a weak spot of mine.
+
+So far I did prefix sum 3 times. Did another prefix and got 90 % of the way there and failed (continus-sub-sum) Going to do more
