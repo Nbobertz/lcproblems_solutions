@@ -647,3 +647,8 @@ Did the p thing today and then came straight back to work. Doing nothing but pre
 So far I did prefix sum 3 times. Did another prefix and got 90 % of the way there and failed (continus-sub-sum) Going to do more. did another one
 
 Today I think I did 5/6 problems
+
+## Day 110: 06/25/26: Going on
+still chugging away. Did nothing but prefix sum problems yesterday. Today I am doing nothing but linked lists to get used to it again.
+
+Did 1 so far
