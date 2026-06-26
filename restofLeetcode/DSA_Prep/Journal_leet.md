@@ -651,4 +651,4 @@ Today I think I did 5/6 problems
 ## Day 110: 06/25/26: Going on
 still chugging away. Did nothing but prefix sum problems yesterday. Today I am doing nothing but linked lists to get used to it again.
 
-Did 1 so far
+Did 5 ish today. Did a G assesment and did pretty good. Had the right intuition on the second problem but always think stuff is a stack for whatever reason
