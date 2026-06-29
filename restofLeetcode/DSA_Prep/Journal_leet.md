@@ -644,4 +644,16 @@ Did one 1 so far
 ## Day 109: 06/24/26: Tired
 Did the p thing today and then came straight back to work. Doing nothing but prefix sum today since its a weak spot of mine.
 
-So far I did prefix sum 3 times. Did another prefix and got 90 % of the way there and failed (continus-sub-sum) Going to do more
+So far I did prefix sum 3 times. Did another prefix and got 90 % of the way there and failed (continus-sub-sum) Going to do more. did another one
+
+Today I think I did 5/6 problems
+
+## Day 110: 06/25/26: Going on
+still chugging away. Did nothing but prefix sum problems yesterday. Today I am doing nothing but linked lists to get used to it again.
+
+Did 5 ish today. Did a G assesment and did pretty good. Had the right intuition on the second problem but always think stuff is a stack for whatever reason
+
+## Day 111: 06/28/26: Went To Florida
+Went to Florida over the weekend and relaxed. Now I am back and it is time to grind. We have 22 days give or take to do this. The goal is to do nothing but Leetcode during the week and then do systems and G problems during the weekend.
+
+Today is nothing but Two Pointer. So Far I have done 5
