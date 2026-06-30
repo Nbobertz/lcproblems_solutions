@@ -661,4 +661,4 @@ Today is nothing but Two Pointer. So Far I have done 5. Did an online assesment 
 ## Day 112: 06/29/26: Stacks All Day
 Doing nothing but stack problems today. If I have time I will then go into Binary Search.
 
-So far did 2
+So far did 3/4. one I had to get help on (reverse polish notaiton) to many variables.
