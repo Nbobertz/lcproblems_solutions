@@ -657,3 +657,8 @@ Did 5 ish today. Did a G assesment and did pretty good. Had the right intuition 
 Went to Florida over the weekend and relaxed. Now I am back and it is time to grind. We have 22 days give or take to do this. The goal is to do nothing but Leetcode during the week and then do systems and G problems during the weekend.
 
 Today is nothing but Two Pointer. So Far I have done 5. Did an online assesment and it was super annoying got one problem fine after 15 minutes and the second was a map of directories and and just copied an answer. So did 6 today.
+
+## Day 112: 06/29/26: Stacks All Day
+Doing nothing but stack problems today. If I have time I will then go into Binary Search.
+
+So far did 1
