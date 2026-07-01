@@ -24,4 +24,4 @@ class Solution:
                 return half
 
         #at this point target is not in the array and we are at the same point. Just insert at l-1
-        return l     
+        return l
