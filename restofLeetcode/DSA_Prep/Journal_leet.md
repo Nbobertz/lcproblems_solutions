@@ -662,3 +662,8 @@ Today is nothing but Two Pointer. So Far I have done 5. Did an online assesment 
 Doing nothing but stack problems today. If I have time I will then go into Binary Search.
 
 So far did 3/4. one I had to get help on (reverse polish notaiton) to many variables. Tried a G assesment but didnt do so hot. Need to do more
+
+## Day 113: 06/30/26: Doing Nothing but Binary Search
+Ok, nothing but binary search today.
+
+So far I have done 1 but looked at the standard easy 2 of them. So 1
