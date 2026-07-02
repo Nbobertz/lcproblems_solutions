@@ -656,4 +656,19 @@ Did 5 ish today. Did a G assesment and did pretty good. Had the right intuition 
 ## Day 111: 06/28/26: Went To Florida
 Went to Florida over the weekend and relaxed. Now I am back and it is time to grind. We have 22 days give or take to do this. The goal is to do nothing but Leetcode during the week and then do systems and G problems during the weekend.
 
-Today is nothing but Two Pointer. So Far I have done 5
+Today is nothing but Two Pointer. So Far I have done 5. Did an online assesment and it was super annoying got one problem fine after 15 minutes and the second was a map of directories and and just copied an answer. So did 6 today.
+
+## Day 112: 06/29/26: Stacks All Day
+Doing nothing but stack problems today. If I have time I will then go into Binary Search.
+
+So far did 3/4. one I had to get help on (reverse polish notaiton) to many variables. Tried a G assesment but didnt do so hot. Need to do more
+
+## Day 113: 06/30/26: Doing Nothing but Binary Search
+Ok, nothing but binary search today.
+
+So far I have done 1 but looked at the standard easy 2 of them. So 5. Did one with Minh
+
+## Day 114: 07/1/26: Doing Sliding Window
+Got back late (11:30) and only had time to do a couple of problems. Going to start the debuggin interview problems as I am bad at those.
+
+Did 1 sliding window so far
