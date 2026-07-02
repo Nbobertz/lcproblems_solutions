@@ -667,3 +667,8 @@ So far did 3/4. one I had to get help on (reverse polish notaiton) to many varia
 Ok, nothing but binary search today.
 
 So far I have done 1 but looked at the standard easy 2 of them. So 5. Did one with Minh
+
+## Day 114: 07/1/26: Doing Sliding Window
+Got back late (11:30) and only had time to do a couple of problems. Going to start the debuggin interview problems as I am bad at those.
+
+Did 1 sliding window so far
