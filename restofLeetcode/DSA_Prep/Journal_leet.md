@@ -680,4 +680,4 @@ Did 2 so far, subsets as per usal
 ## Day 116: 07/18/26: Was Sick Back At It
 Lost track of time, was sick for a bit of time. Doing nothing but trees today
 
-Did 5 so far
+Did 5 so far, also started doing Big g most popular
