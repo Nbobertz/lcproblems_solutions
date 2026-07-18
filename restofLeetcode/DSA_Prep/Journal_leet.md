@@ -671,4 +671,13 @@ So far I have done 1 but looked at the standard easy 2 of them. So 5. Did one wi
 ## Day 114: 07/1/26: Doing Sliding Window
 Got back late (11:30) and only had time to do a couple of problems. Going to start the debuggin interview problems as I am bad at those.
 
-Did 1 sliding window so far
+Did 2 sliding window so far
+
+## Day 115: 07/08/26: Went To Florida Again
+Went to Florida again and now it looks like I am doing nothing but backtracking stuff today.
+Did 2 so far, subsets as per usal
+
+## Day 116: 07/18/26: Was Sick Back At It
+Lost track of time, was sick for a bit of time. Doing nothing but trees today
+
+Did 5 so far, also started doing Big g most popular
