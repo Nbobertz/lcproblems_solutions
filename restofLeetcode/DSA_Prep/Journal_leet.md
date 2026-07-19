@@ -681,3 +681,8 @@ Did 2 so far, subsets as per usal
 Lost track of time, was sick for a bit of time. Doing nothing but trees today
 
 Did 5 so far, also started doing Big g most popular
+
+## Day 117: 07/19/26: Doing DP
+Nothing but DP today, have to get a grasp on this algorithm
+
+Did 3 so far
