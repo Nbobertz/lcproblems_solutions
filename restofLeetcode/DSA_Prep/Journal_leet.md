@@ -692,3 +692,7 @@ This is the last night before testing. Hopefully I am ready. Did about 20 ish to
 Doing graphs to catch up then going back to DP
 
 Did 1 so far
+
+## Day 119: 07/20/26: Results
+So, had two ints with the big. First was good, lean h/strong. Second, was good at a solid lean. P was around MS and Slogs/PrintLates
+If I get passed into the next round it's time to grind grind grind.
