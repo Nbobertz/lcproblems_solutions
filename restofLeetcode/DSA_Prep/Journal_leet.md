@@ -686,3 +686,9 @@ Did 5 so far, also started doing Big g most popular
 Nothing but DP today, have to get a grasp on this algorithm
 
 Did 3 so far
+
+## Day 118: 07/20/26: One More Day
+This is the last night before testing. Hopefully I am ready. Did about 20 ish to prepare but have done close to 500 lc problems
+Doing graphs to catch up then going back to DP
+
+Did 1 so far
