@@ -696,3 +696,9 @@ Did 1 so far
 ## Day 119: 07/20/26: Results
 So, had two ints with the big. First was good, lean h/strong. Second, was good at a solid lean. P was around MS and Slogs/PrintLates
 If I get passed into the next round it's time to grind grind grind.
+
+## Day 120: 07/24/26: Waiting
+I am still waiting to hear back, I keep playing over the problem in my head and I think I came up with the optimal solution. I even asked chat gpt and got the same thing.
+
+Ehh, still going to do problems as its all I know how to do I guess.
+Did 1 today
