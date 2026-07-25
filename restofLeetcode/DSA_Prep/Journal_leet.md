@@ -701,4 +701,4 @@ If I get passed into the next round it's time to grind grind grind.
 I am still waiting to hear back, I keep playing over the problem in my head and I think I came up with the optimal solution. I even asked chat gpt and got the same thing.
 
 Ehh, still going to do problems as its all I know how to do I guess.
-Did 1 today
+Did 2 today
