@@ -702,3 +702,7 @@ I am still waiting to hear back, I keep playing over the problem in my head and 
 
 Ehh, still going to do problems as its all I know how to do I guess.
 Did 2 today
+
+## Day 121: 07/24/26: Taking It Easy
+Going to take it easy for a bit. I stress to hard over leetcode and getting better. Going to keep doing them just not kill myself.
+Did 1 today
